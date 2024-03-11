@@ -38,8 +38,8 @@ export default function Hero() {
                   className="text-glow bg-blue-500 text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
                   href={
                     currentPath === "/en"
-                      ? "https://calendly.com/organicmasterclass/30min?month=2024-01"
-                      : "https://calendly.com/organicmasterclass/dk?month=2024-01&fbclid=IwAR1QxiXMF-RBNdSKsZY1yYySZ4vWfzard9pSvdwqfGIfEZYjA9vIex6pyqA"
+                      ? "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
+                      : "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
                   }
                 >
                   {currentPath === "/en" ? "Apply today" : "Ansøg i dag"}
@@ -74,7 +74,7 @@ export default function Hero() {
                     <ArrowDown />
                   </span>
                 </h1>
-                <a href="https://organicmasterclass.com/en">
+                <a href="https://ocmamasterclass.com">
                   <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
                 </a>
               </div>
@@ -86,7 +86,7 @@ export default function Hero() {
                     <ArrowDown />
                   </span>
                 </h1>
-                <a href="https://organicmasterclass.com/dk">
+                <a href="https://ocmamasterclass.com/">
                   <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
                 </a>
               </div>

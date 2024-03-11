@@ -1,12 +1,12 @@
 import Head from "next/head";
 
 const Meta = ({
-  title = "Organic Masterclass",
-  keywords = "Organic Masterclass",
-  description = "Organic Masterclass",
-  icon = "/secondfav.png",
-  banner = "/favicon.png",
-  url = "https://site.organicmasterclass.com",
+  title = "OCMA Masterclass",
+  keywords = "OCMA Masterclass",
+  description = "OCMA Masterclass",
+  icon = "/mainfav.jpg",
+  banner = "/omca.png",
+  url = "https://ocmamasterclass.com",
 }: {
   title?: string;
   keywords?: string;

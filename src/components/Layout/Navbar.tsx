@@ -94,7 +94,7 @@ export default function Navbar() {
       {menuClicked ? (
         <div className="fixed w-full top-[120px] z-10 nav:hidden">
           <Reveal>
-            <div className="w-[94%] mx-auto bg-white shadow-navbar rounded-main p-[20px]">
+            <div style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}} className="w-[94%] mx-auto bg-white shadow-navbar rounded-main p-[20px]">
               <div className="flex flex-col gap-[20px] mb-[20px]">
                 <Link
                   to="testimonials"
@@ -133,8 +133,8 @@ export default function Navbar() {
                   className="bg-blue-500 text-white p-[14px] py-[8px] rounded-main font-[500]"
                   href={
                     currentPath === "/en"
-                      ? "https://calendly.com/organicmasterclass/30min?month=2024-01"
-                      : "https://calendly.com/organicmasterclass/dk?month=2024-01&fbclid=IwAR1QxiXMF-RBNdSKsZY1yYySZ4vWfzard9pSvdwqfGIfEZYjA9vIex6pyqA"
+                      ? "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
+                      : "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
                   }
                 >
                   {currentPath === "/en" ? "Start today" : "Start i dag"}

@@ -16,8 +16,8 @@ export default function Footer() {
             className="bg-blue-500 text-white p-[30px] py-[10px] rounded-full text-glow"
             href={
               currentPath === "/en"
-                ? "https://calendly.com/organicmasterclass/30min?month=2024-01"
-                : "https://calendly.com/organicmasterclass/dk?month=2024-01&fbclid=IwAR1QxiXMF-RBNdSKsZY1yYySZ4vWfzard9pSvdwqfGIfEZYjA9vIex6pyqA"
+                ? "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
+                : "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
             }
           >
             {currentPath === "/en" ? "Start today" : "Start i dag"}
@@ -39,12 +39,12 @@ export default function Footer() {
           <div className="grid grid-cols-2 items-end navbar:flex navbar:gap-[30px] foots:flex-col foots:items-start">
             <img
               alt="tiktok"
-              className="w-[200px] object-cover"
+              className="w-[200px] object-cover text-glow"
               src="/tiktokpartner.png"
             ></img>
             <img
               alt="shopify"
-              className="w-[150px]"
+              className="w-[150px] text-glow"
               src="/shopifypartner.png"
             ></img>
           </div>
