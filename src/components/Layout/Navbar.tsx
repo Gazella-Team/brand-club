@@ -16,7 +16,7 @@ export default function Navbar() {
         <nav style={{backdropFilter: "blur(20px)"}} className="fixed w-full flex items-center h-[80px] z-10">
           <div className="w-[96%] mx-auto max-w-[1500px] p-[20px] rounded-main flex items-center justify-between">
             <a href={"/"} className="text-white font-[700] text-[22px]">
-              Organic Masterclass
+              <img className="w-[100px]" src="/omca.png"></img>
             </a>
 
             <div className="flex items-center gap-[50px]">
