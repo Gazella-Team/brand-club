@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://site.organicmasterclass.com
+
+# Sitemaps
+Sitemap: https://site.organicmasterclass.com/sitemap.xml
