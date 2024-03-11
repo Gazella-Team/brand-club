@@ -28,8 +28,7 @@ export default function Footer() {
           <div className="text-white navbar:mb-[50px]">
             <img
               alt="logo"
-              className="w-[70px] mb-[20px]"
-              src="/logo.png"
+              className="w-[100px] mb-[20px]" src="/omca.png"
             ></img>
             <p className="w-[30%] navbar:w-full">
               {currentPath === "/en"
@@ -51,7 +50,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="flex items-center justify-between py-[20px] text-white foots:flex-col foots:items-start">
-          <p>© {new Date().getFullYear()}, Organic Masterclass</p>
+          <p>© {new Date().getFullYear()}, OCMA Masterclass</p>
           <div className="flex items-center gap-[20px] text-white">
             <Link
               href={

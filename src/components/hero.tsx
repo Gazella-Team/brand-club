@@ -75,7 +75,7 @@ export default function Hero() {
                   </span>
                 </h1>
                 <a href="https://organicmasterclass.com/en">
-                  <img className="rounded-main" alt="hero" src="/efro.jpg"></img>
+                  <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
                 </a>
               </div>
             ) : (
@@ -87,7 +87,7 @@ export default function Hero() {
                   </span>
                 </h1>
                 <a href="https://organicmasterclass.com/dk">
-                  <img className="rounded-main" alt="hero" src="/herodanish.jpg"></img>
+                  <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
                 </a>
               </div>
             )}

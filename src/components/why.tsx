@@ -65,7 +65,7 @@ export default function Why() {
             <Reveal>
               <div style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}} className="border-[4px] border-blue-500 text-left p-[40px] rounded-main box-border">
                 <h1 className="text-[30px]  text-white font-[700] mb-[40px]">
-                  Organic Masterclass
+                 OCMA
                 </h1>
                 {englishWhyData[0].map((v, index) => (
                   <div className="flex flex-col mb-[30px]" key={index}>
@@ -85,7 +85,7 @@ export default function Why() {
             <Reveal>
               <div style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}} className="bg-blue-500 border-[4px] border-blue-500 text-left p-[40px] rounded-main box-border">
                 <h1 className="text-[30px]  text-white font-[700] mb-[40px]">
-                  Organic Masterclass
+                  OCMA
                 </h1>
                 {whyData[0].map((v, index) => (
                   <div key={index} className="flex flex-col mb-[30px]">

@@ -30,30 +30,6 @@ export default function Testimonials() {
       words:
         "De hjalp os med at producere ugc videoer. Vi fik hurtigt mange følgere. Teamet bag er unge og entusiastiske og går op i at levere et produkt som du er tilfreds med.",
     },
-    {
-      personImage: "/madsreview.jpg",
-      name: "Mads",
-      position: "Elev - Organic Masterclass",
-      companyImage: "/meta.png",
-      words:
-        "Fantastiske gutter samt et fantastisk gennemført og detaljeret kursus! Var ikke igang mere end 1 uge, før min første kunde var lukket. Jeg har nu flere på vej og ser kun frem til flere aftaler fremadrettet, grundet deres enorme viden og hjælpsomhed. Drengene er helt nede på jorden og man får en fornemmelse under deres samarbejde, at hver enkelt kursist succes, er deres succes. Deres 1:1 hjælp er derfor enormt brugbart og fungerer helt i top! Kæææmpe anbefaling herfra!",
-    },
-    {
-      personImage: "/oskarreview.jpg",
-      name: "Oskar",
-      position: "Elev - Organic Masterclass",
-      companyImage: "/meta.png",
-      words:
-        "Ekstrem god masterclass om den nye “organic agency” forretningsmodel. Du lærer alt fra hvordan man bygger en kæmpe forretning op omkring det (som ejerne selv har gjort) til hvordan man performer for sine kunder. Virkelig et produkt, der er veludført, og hvor der er tænkt på hver evig lille detalje. Kan kun anbefales :)",
-    },
-    {
-      personImage: "/collegehubreview.jpg",
-      name: "Tobias",
-      position: "Collegehub",
-      companyImage: "/meta.png",
-      words:
-        "Vi stødte ind i Benjamin i vores butik på Strøget, hvor Benjamin klargjorde vækstmulighederne gennem TikTok markedsføring med engagerende videoer. Vi var i gang med opsætning af vores online webshop, og derfor var Benjamin og hans team som faldt fra himlen. På under 2 uger gik vi fra en helt ny TikTok med 0 følgere, til mere end 10k. Vi fik en fantastisk launch, og dette kunne vi ikke have opnået uden VateMedia. Drengene er engagerede, seriøse og pisse dygtige til online formidling i øjenhøjde med det unge segment. At de både har en strategisk og logisk tilgang, sammen med fingeren på pulsen, gør VateMedia til en super samarbejdspartner. Kæmpe anbefaling herfra!",
-    },
   ];
   const englishTestimonialsData = [
     {
@@ -79,31 +55,6 @@ export default function Testimonials() {
       companyImage: "/meta.png",
       words:
         "They helped us produce ugc videos. We quickly gained many followers. The team behind it is young and enthusiastic and is committed to delivering a product that you're satisfied with.",
-    },
-    {
-      personImage: "/madsreview.jpg",
-      name: "Mads",
-      position: "Student - Organic Masterclass",
-      companyImage: "/meta.png",
-      words:
-        "Great guys as well as a great completed and detailed course! Wasn't running more than 1 week before my first customer was closed. I now have more on the way and can only look forward to more agreements in the future, due to their enormous knowledge and helpfulness. The boys are down to earth and you get the feeling during their collaboration that the success of each individual student is their success. Their 1:1 help is therefore enormously useful and works perfectly! Huge recommendation from here!",
-    },
-    {
-      personImage: "/oskarreview.jpg",
-      name: "Oskar",
-      position: "Student - Organic Masterclass",
-      companyImage: "/meta.png",
-      words:
-        "Really good program about organic agency. You learn everything from how to build a huge business around it (as the owner has done) to how to perform for your customers. Truly a product that is well-executed, and where every little detail has been thought of. Can only be recommended.",
-    },
-    {
-      //
-      personImage: "/collegehubreview.jpg",
-      name: "Tobias",
-      position: "Collegehub",
-      companyImage: "/meta.png",
-      words:
-        "Vi stødte ind i Benjamin i vores butik på Strøget, hvor Benjamin klargjorde vækstmulighederne gennem TikTok markedsføring med engagerende videoer. Vi var i gang med opsætning af vores online webshop, og derfor var Benjamin og hans team som faldt fra himlen. På under 2 uger gik vi fra en helt ny TikTok med 0 følgere, til mere end 10k. Vi fik en fantastisk launch, og dette kunne vi ikke have opnået uden VateMedia. Drengene er engagerede, seriøse og pisse dygtige til online formidling i øjenhøjde med det unge segment. At de både har en strategisk og logisk tilgang, sammen med fingeren på pulsen, gør VateMedia til en super samarbejdspartner. Kæmpe anbefaling herfra!",
     },
   ];
   return (
@@ -145,7 +96,7 @@ export default function Testimonials() {
 const TestimonialsCard = (props: any) => {
   return (
     <Reveal>
-      <div style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}} className="rounded-main  p-[14px] pb-[20px] text-left">
+      <div style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}} className="rounded-main text-glow  p-[14px] pb-[20px] text-left">
         <img
           alt={props.Obj.personImage}
           className="rounded-main h-[300px] w-full object-cover object-top mb-[20px]"
