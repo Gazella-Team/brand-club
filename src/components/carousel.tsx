@@ -13,7 +13,7 @@ import { Navigation } from "swiper/modules";
 export default function CoolCarousel() {
   return (
     <>
-      <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
+      <Swiper navigation={true} modules={[Navigation]} className="mySwiper text-glow">
         <SwiperSlide>
           <Link
             href={
