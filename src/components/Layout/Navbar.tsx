@@ -56,8 +56,8 @@ export default function Navbar() {
                   className="text-white p-[10px] py-[12px] rounded-full font-[500]"
                   href={
                     currentPath === "/en"
-                      ? "https://calendly.com/organicmasterclass/30min?month=2024-01"
-                      : "https://calendly.com/organicmasterclass/dk?month=2024-01&fbclid=IwAR1QxiXMF-RBNdSKsZY1yYySZ4vWfzard9pSvdwqfGIfEZYjA9vIex6pyqA"
+                      ? "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
+                      : "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
                   }
                 >
                   {currentPath === "/en" ? "Start today" : "Start i dag"}
