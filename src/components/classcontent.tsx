@@ -380,7 +380,7 @@ const englishClassContentData = [
         moduleContentHeading: "How to accept payments",
         moduleContentTime: "02:06",
       },
-    ],
+    ],//
   },
   {
     image: "/contents/new03.jpg",
