@@ -4,9 +4,9 @@ const Meta = ({
   title = "OCMA Masterclass",
   keywords = "OCMA Masterclass",
   description = "OCMA Masterclass",
-  icon = "/mainfav.jpg",
+  icon = "/favicon.ico",
   banner = "/omca.png",
-  url = "https://ocmamasterclass.com",
+  url = "https://site.ocmamasterclass.com",
 }: {
   title?: string;
   keywords?: string;
@@ -37,7 +37,7 @@ const Meta = ({
       <meta property="og:title" content={title} key="og:title" />
       <meta
         property="og:site_name"
-        content="Organic Masterclass"
+        content="OCMA Masterclass"
         key="og:site_name"
       />
       <meta property="og:url" content={url} key="og:url" />
