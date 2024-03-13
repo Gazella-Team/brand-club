@@ -15,14 +15,6 @@ export default function Testimonials() {
         "Dybt overrasket over deres vidunderlige tilgang til tingene. Man kan mærke det er et ungt team der har styr på deres ting, og deres moderne tilgang til tingene slår bare igennem!",
     },
     {
-      personImage: "/case2.png",
-      name: "Victor Aaroe",
-      position: "Forretningsejer",
-      companyImage: "/meta.png",
-      words:
-        "Min beslutning om at gå med deres team har ændret min virksomheds ståstand. De hjalp mig fra start til nu med 180.000 kr på bundlinjen indenfor 1,5 måneds samarbejde.",
-    },
-    {
       personImage: "/emilstrande.png",
       name: "Emil Strande",
       position: "Ejer - Letzsneak",
@@ -39,14 +31,6 @@ export default function Testimonials() {
       companyImage: "/meta.png",
       words:
         "Deeply surprised by their wonderful approach to things. You can tell it's a young team that has their stuff under control, and their modern approach to things just shines through! They are in the process of revolutionizing the way marketing is done. - big recommendation from here!c",
-    },
-    {
-      personImage: "/case2.png",
-      name: "Victor Aaroe",
-      position: "Business Owner",
-      companyImage: "/meta.png",
-      words:
-        "My decision to go with their team has changed the face of my business. They helped me from start to now with DKK 180,000 on the bottom line within 1.5 months of collaboration.",
     },
     {
       personImage: "/emilstrande.png",
@@ -72,7 +56,7 @@ export default function Testimonials() {
           <p className="text-sectionDescription text-gray-200 mb-[60px]">
             {currentPath === "/en"
               ? "What business owners think about us and our expertise"
-              : "Hvad elever & forretningsejere siger om os og vores expertise "}
+              : "Hvad elever siger om os og vores expertise"}
           </p>
         </Reveal>
         {currentPath === "/en" ? (

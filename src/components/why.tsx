@@ -5,10 +5,10 @@ import { useRouter } from "next/router";
 
 const whyData = [
   [
-    "Mange års erfaring indenfor organisk markedsføring. Skaleret egne forretninger/webshops med denne forretningsmodel og hjulpet nogle af de hurtigst voksende profiler på sociale medier. ",
-    "Vækstet forretninger fra 0-1.000.000 indenfor 1 måned med vores framework som DU får adgang til, for at have mulighed for at kunne tilbyde samme resultater som vores agency. ",
-    "Får hjælp til at holde kunder i længere perioder, så du ikke hele tiden skal jagte nye kunder, men kan have nogle længerevarende samarbejder. ",
-    "Viden fra nogle af de absolut største inden for content creation marketing. ",
+    "Mange års erfaring indenfor organisk markedsføring. Skaleret egne forretninger/webshops med denne forretningsmodel og hjulpet nogle af de hurtigst voksende profiler på sociale medier.  ",
+    "Vi har selv vækstet forretninger fra 0-1.000.000 indenfor 1 måned med vores framework som DU får adgang til, for at have mulighed for at kunne tilbyde samme resultater som vores agency.",
+    "Får hjælp til at holde kunder i længere perioder, så du ikke hele tiden skal jagte nye kunder, men kan have nogle længerevarende samarbejder.",
+    "Viden fra nogle af de absolut største inden for content creation marketing.",
     "Du lærer hvordan du uden tidligere erfaring, kan opbygge en forretning du kan leve af. ",
   ],
   [

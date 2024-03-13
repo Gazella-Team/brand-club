@@ -26,22 +26,28 @@ import {
         "Alle lærer forskelligt; derfor har vi implementeret community opkald hver uge, hvor du kan få svar på alle dine spørgsmål",
     },
     {
-      heading: "Personlig sparringsgruppe",
+      heading: "Egnet til nybegyndere og letøvede",
       icon: <MessageCircleMore />,
       description:
-        "Du vil blive tilføjet til en gruppe med andre like minded iværksættere som hjælper dig på din rejse.",
+        "Vi tager dig gennem rejsen fra A-z så du kan opbygge dit eget OCMA. Denne masterclass er for alle; Dem der først lige starter, erfarne agency ejere og endda store virksomheder som vil skalere deres brand.",
     },
     {
-      heading: "30+ trin for trin dybdegående moduler",
+      heading: "Vores resultater, værktøjer og skabeloner",
       icon: <Footprints />,
       description:
-        "Vi har udfoldet mere end 30+ dybdegående som lærer dig nøjagtig hvordan du kan skalere dit agency til 60k / måned.",
+        "Vi giver dig alle vores dybdegående værktøjer, resultater, systemer og skabeloner, vi selv bruger til vores eget Agency. ",
     },
     {
-      heading: "24/7 personlig adgang",
+      heading: "Hvordan du skalerer dit OCMA til 50k/måned",
       icon: <ShieldCheck />,
       description:
-        "Du har 24/7 adgang til vores masterclass, som er udviklet  i vores egen software.",
+        "Vi tager dig fra a-z på hvordan du kan tage din nye forretning til 50k/ måned. Vi har udfoldet et helt kapitel der uddyber dette konkret",
+    },
+    {
+      heading: "Sparringsgruppe",
+      icon: <Footprints />,
+      description:
+        "Du vil både blive tilføjet til den større gruppe med alle medlemmerne, men så tilføjer vi dig også til en sparringsgruppe med 3-4 andre medlemmer vi dedikeret selv udvælger, som er like minded iværksættere som også vil hjælpe dig på din rejse.",
     },
   ];
   const contentsDataLeft = [
@@ -68,6 +74,12 @@ import {
       icon: <CircleDollarSign />,
       description:
         "Vi tager dig fra a-z på hvordan du kan tage din nye forretning til 60k/ måned.",
+    },
+    {
+      heading: "30+ trin for trin dybdegående moduler",
+      icon: <ShieldCheck />,
+      description:
+        "Vi har udfoldet mere end 30+ dybdegående moduler som lærer dig nøjagtig hvordan du kan få succes med dit OCMA.",
     },
   ];
   const englishContentsDataRight = [

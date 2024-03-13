@@ -138,7 +138,7 @@ const classContentData = [
   },
   {
     image: "/contents/09.jpeg",
-    mainHeading: "Drift af et profitabel 120.000 DKK /måned organisk agency",
+    mainHeading: "Drift af et profitabelt OCMA",
     videoQuantity: "3",
     timeOfModule: "07:38",
     moduleContent: [
@@ -458,9 +458,9 @@ export default function ClassContent() {
           <h1 className="text-heroHeading font-[700] mb-[14px]">
             {currentPath === "/en"
               ? "Get a taste of what you get in "
-              : "Hvad indenholder"}{" "}
+              : "Se en smagsprøve af hvad du kan forvente i"}{" "}
             <span className="text-blue-500">
-              {currentPath === "/en" ? " OCMA Masterclass?" : " OCMA Masterclass?"}
+              {currentPath === "/en" ? " OCMA Masterclass?" : " OCMA Masterclass"}
             </span>
           </h1>
         </Reveal>
@@ -468,7 +468,7 @@ export default function ClassContent() {
           <p className="text-sectionDescription text-gray-200 mb-[60px]">
             {currentPath === "/en"
               ? "30+ step by step modules includes what you get access to in the organic masterclass"
-              : "30+ step by step moduler er bla. hvad du får adgang til i organic masterclass"}
+              : "30+ step by step moduler er bla. hvad du får adgang til i OCMA masterclass"}
           </p>
         </Reveal>
         {currentPath === "/en" ? (

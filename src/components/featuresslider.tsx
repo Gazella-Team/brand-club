@@ -35,6 +35,7 @@ export default function FeaturesSlider() {
   return (
     <section className="py-[80px]">
       <div>
+      <p className="text-center font-[500] text-[20px]">Rost af bla:</p>
         <Slider
           width="160px"
           duration={20}
