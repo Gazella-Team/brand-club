@@ -73,14 +73,14 @@ export default function Calls() {
         <Reveal>
           <h1 className="text-heroHeading font-[700] mb-[14px]">
             {currentPath === "/en"
-              ? "Weekly community calls"
+              ? "weekly meetings"
               : "Ugentlige møder"}
           </h1>
         </Reveal>
         <Reveal>
           <p className="text-sectionDescription text-gray-200 mb-[60px]">
             {currentPath === "/en"
-              ? "All people learn differently, so we have weekly community calls, so we can guarantee individual success to everyone."
+              ? "Since everyone learns in different ways, we have implemented weekly calls where Benjamin and Sebastian share their most valuable OCMA nuggets"
               : "Da alle mennesker lærer på forskellige måder, har vi implementeret ugentlige opkald, hvor Benjamin og Sebastian deler deres mest værdifulde OCMA guldkorn"}
           </p>
         </Reveal>

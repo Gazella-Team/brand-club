@@ -107,31 +107,43 @@ import {
       description:
         "You have 24/7 access to our masterclass, which is developed in our own software.",
     },
+    {
+      heading: "30+ step by step in-depth modules",
+      icon: <ShieldCheck />,
+      description:
+        "We have rolled out more than 30+ in-depth modules that teach you exactly how to succeed with your OCMA.",
+    },
   ];
   const englishContentsDataLeft = [
     {
-      heading: "Support same day",
+      heading: "Same day support",
       icon: <HeartHandshakeIcon />,
       description:
-        "We focus on the individual's success story, that's why we respond immediately when you need help :)",
+        "We focus on the simplest success story, therefore we strive to respond immediately when you need help",
     },
     {
       heading: "Suitable for beginners and intermediates",
       icon: <Globe />,
       description:
-        "We take you through the journey from A-z so you can build your own 9k/month organic agency. This masterclass is for everyone; Those just starting out, experienced agency owners and even large companies looking to scale their brand.",
+        "We take you through the journey from A-z so you can build your own OCMA. This masterclass is for everyone; Those just starting out, experienced agency owners and even large companies looking to scale their brand.",
     },
     {
       heading: "Our tools and templates",
       icon: <ScissorsSquare />,
       description:
-        "We give you all our in-depth tools, systems and templates we use for our own business.",
+        "We provide you with all our in-depth tools, results, systems and templates that we ourselves use for our own Agency.",
     },
     {
-      heading: "How to scale your agency to 9k/month",
+      heading: "How to scale your OCMA to 50k/month",
       icon: <CircleDollarSign />,
       description:
-        "We take you from a-z on how you can take your new business to 60k/month.",
+        "We take you from a-z on how you can take your new business to 50k/month. We have developed an entire chapter that elaborates on this concretely.",
+    },
+    {
+      heading: "Sparring group",
+      icon: <CircleDollarSign />,
+      description:
+        "You will both be added to the larger group with all the members, but then we will also add you to a sparring group with 3-4 other members we dedicatedly select ourselves, who are like-minded entrepreneurs who will also help you on your journey.",
     },
   ];
   
@@ -145,10 +157,10 @@ import {
           <Reveal>
             <h1 className="text-heroHeading font-[700] mb-[60px] text-white">
               {currentPath === "/en"
-                ? " What is included in "
+                ? "What does our Masterclass"
                 : " Hvad indeholder "}{" "}
               <span className="text-blue-500">
-                {currentPath === "/en" ? "our masterclass" : "vores masterclass"}
+                {currentPath === "/en" ? "include?" : "vores masterclass"}
               </span>
             </h1>
           </Reveal>

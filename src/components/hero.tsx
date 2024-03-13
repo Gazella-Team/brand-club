@@ -15,7 +15,7 @@ export default function Hero() {
           <Reveal>
             <h1 className="text-heroHeading text-white font-[700] mb-[20px] heroTwo:text-[30px]">
               {currentPath === "/en"
-                ? "Thorough masterclass on how you can build a 6-figure business"
+                ? "Perfected masterclass that guides you step by step in building a 6-figure"
                 : "Veludarbejdet masterclass, der guider dig trin for trin i opbygningen af et 6-cifret"}{" "}
               <span className="text-blue-500">
                 {currentPath === "/en"
@@ -27,7 +27,7 @@ export default function Hero() {
           <Reveal>
             <p className="text-heroDescription text-gray-200 mb-[40px] w-[90%]">
               {currentPath === "/en"
-                ? "Through our detailed framework, you get guidance on how to build a business, reap profits and scale it to new heights - just like we did ourselves."
+                ? "Using our comprehensive framework, you'll get guidance on how to build a business, generate profits and scale it to new heights - just like we did it ourselves."
                 : "Ved hjælp af vores omfattende framework får du vejledning i, hvordan du opbygger en virksomhed, genererer profit og skalerer den til nye højder - nøjagtigt som vi gjorde det selv."}
             </p>
           </Reveal>

@@ -14,7 +14,7 @@ export default function Articles() {
           <Reveal>
             <h1 className="text-heroHeading text-white font-[700] mb-[20px] heroTwo:text-[30px]">
               {currentPath === "/en"
-                ? "Seen in the news: Our knowledge is based on"
+                ? "Praised in the news: Our knowledge is based on"
                 : "Rost i nyhederne: Vores viden er baseret på"}{" "}
               <span className="text-blue-500">
                 {currentPath === "/en" ? "experience" : "erfaring"}
@@ -24,7 +24,7 @@ export default function Articles() {
           <Reveal>
             <p className="text-heroDescription text-gray-200 mb-[40px] w-[90%]">
               {currentPath === "/en"
-                ? "The team behind the organic Masterclass are well-known faces in Denmark, including “JydskeVestkysten”, “Sjællandskenyheder”, “ugeavisen” & the Det grønne område” have written about our success.At organic masterclass, we focus on showing you the reality of crafting a 10k$/ month business without any filter on, as well as letting our experience and results speak for themselves"
+                ? "The twins Benjamin and Sebastian are well-known faces all over the country. They have run the well-known clothing store Linenclothing and a. have written about our success at a young age. At OCMA Masterclass, we focus on showing you reality without a filter and let our experience and results speak for themselves"
                 : "Tvillingerne Benjamin og Sebastian  er velkendte ansigter over hele landet. De har Drevet den velkendte tøjforretning Linenclothing og bl. a. har JydskeVestkysten, Sjællandske Nyheder, Ugeavisen og Det Grønne Område skrevet om vores succes i en ung alder. Hos OCMA Masterclass sætter vi fokus på at vise dig virkeligheden uden filter og lader vores erfaringer og resultater tale for sig selv."}
             </p>
           </Reveal>
@@ -39,7 +39,7 @@ export default function Articles() {
                       : "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
                   }
                 >
-                  {currentPath === "/en" ? "Start today" : "Start i dag"}
+                  {currentPath === "/en" ? "Apply today" : "Start i dag"}
                   <span>
                     <ArrowRight size={20} />
                   </span>

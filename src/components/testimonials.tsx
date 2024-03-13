@@ -48,14 +48,14 @@ export default function Testimonials() {
           <h1 className="bg-transparent inline-block text-heroHeading font-[700] mb-[14px]">
             {currentPath === "/en" ? "Business" : "Erhvervs"}{" "}
             <span className="text-blue-500">
-              {currentPath === "/en" ? "Reviews" : "Anbefalinger"}
+              {currentPath === "/en" ? "Recommendations" : "Anbefalinger"}
             </span>
           </h1>
         </Reveal>
         <Reveal>
           <p className="text-sectionDescription text-gray-200 mb-[60px]">
             {currentPath === "/en"
-              ? "What business owners think about us and our expertise"
+              ? "What students say about us and our expertise"
               : "Hvad elever siger om os og vores expertise"}
           </p>
         </Reveal>

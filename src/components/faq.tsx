@@ -45,45 +45,45 @@ const questions = [
   {
     question: "Kan man ikke bare lære dette på youtube?",
     answer:
-      "Ofte vil du kunne finde den information du får i kurser på youtube eller lign. men sådan er det ikke her, eftersom vores forretningsmodel er helt ny. Og for at bevise dette vil jeg gerne tage dig med på en test, gå ind på youtube > søg på “OCMA” Det ville overraske mig hvis du fandt noget! og det ville det netop eftersom vi er de første som oplærer dig netop dette. Det skal dog nævnes at der er andre forretningsmodeller der læner sig op ad denne.",
+      "Ofte vil du kunne finde den information du får i kurser på youtube eller lign. men sådan er det ikke her, eftersom vores forretningsmodel er helt ny. Og for at bevise dette vil jeg gerne tage dig med på en test, gå ind på youtube > søg på “OCMA” Det ville overraske mig hvis du fandt noget! og det ville det netop eftersom vi er de første som oplærer dig netop dette. Det skal dog nævnes at der er andre forretningsmodeller der læner sig op ad denne. ",
   },
 ];
 const englishQuestions = [
   {
-    question: "What is your guarantee?",
+    question: "What is your warranty?",
     answer:
-      "We guarantee your first paid client within 180 days, otherwise we send every single penny back.",
+      "We guarantee you an income of NOK 20,000 / month for 180 days, otherwise we will return every penny + NOK 12,000 from our own wallet",
   },
   {
-    question: "Can I do this while in school/work?",
+    question: "Can I do this while going to school/working?",
     answer:
-      "Yes, of course. Going to school while running this business is no problem. When we first started, we all 3 went to school, but now are full time on our businesses.",
+      "Yes of course. Going to school while running this business is no problem. When we started the business, we were both in high school, but now we are full-time with our businesses.",
   },
   {
     question: "How do I get support?",
     answer:
-      "You can always send us a message and we will respond, because your success is our success.",
+      "You can always send us a message or set up a 1:1 call with us and we will help, because as our motto says: your success is our success.",
   },
   {
     question: "What will I learn?",
     answer:
-      "You'll learn exactly how to build a business. All in the same way we did, because you'll get all our frameworks. This is a brand new business model that every company needs, so it's a perfect time to get started. We run an agency ourselves based on this business model, Organic Agency. You'll always be one step ahead of others because you have our frameworks, which are constantly updated. So what are you waiting for? Apply today and start your journey.",
+      "You will learn exactly how to build a business. All in the same way as we did, because you get all our frameworks and a clear business plan that explains exactly what you have to do every day. This is a brand new business model that all businesses need, so it's a perfect time to get started. We ourselves run an agency based on this business model, OCMA. You will always be one step ahead of others, because you have our frameworks, which are updated continuously. So what are you waiting for? Apply today and start your journey.",
   },
   {
     question:
-      "What happens after I have been accepted to purchase the Organic Masterclass?",
+      "What happens after I have been accepted to purchase the OCMA Masterclass?",
     answer:
-      "You will be added to our proprietary software with all modules. Our teaching material is both in text and video. In addition, you will join an Organic Masterclass members-only group to save with each other and us.",
+      "As you may have seen on the website, there is no buy now button, and that is not because of the guarantee we have. We have to talk to everyone, someone gets access. We want to know who we're betting our own money on. You will be added to our own software with all modules. Our teaching material is both in text and video. In addition, you join a group for members only of the OCMA Masterclass, to save with each other and us.",
   },
   {
     question: "How much can I expect to earn?",
     answer:
-      "There is no maximum on how much you can earn; these are the benefits of this business model. Normally your agency and network grow over time, which allows for greater growth while reducing time consumption. You therefore have the opportunity to decide for yourself, depending on your goals, where you want to go. However, we have seen several of the first students close deals of 1 - 4,000 usd after just one week and then quit their jobs, as they are now earning far more than their old jobs.",
+      "There is no maximum on how much you can earn; these are the benefits of this business model. As a rule, your agency and network grow over time, which allows for greater growth while reducing time consumption. You therefore have the opportunity to decide, depending on your goals, where you want to go. However, we have seen several of the first students close deals of NOK 8-30,000 after just one week and then quit their jobs, as they now * But remember these are examples and not necessarily what applies to you",
   },
   {
     question: "Can't you just learn this on youtube?",
     answer:
-      "Super good question, because this is exactly what applies to other courses. you will often be able to find the information you get in courses on YouTube or similar. but that is not the case here, as our business model is completely new. And to prove this, I'd like to take you on a test, go to youtube > search for “organic agency” it would surprise me if you found anything! and it would precisely because we are the first to teach you exactly this :)",
+      "You will often be able to find the information you get in courses on YouTube or similar. but that is not the case here, as our business model is completely new. And to prove this I'd like to take you on a test, go to youtube > search “OCMA” I'd be surprised if you found anything! and it would precisely because we are the first to teach you exactly this. However, it should be mentioned that there are other business models that lean on this one.",
   },
 ];
 
