@@ -79,7 +79,7 @@ export default function Footer() {
           <Link href={"https://www.instagram.com/benjamin.madsen_/"}>
             <img
               alt="instagram"
-              className="w-[30px]"
+              className="w-[30px] text-glow"
               src="/instagram.png"
             ></img>
           </Link>
