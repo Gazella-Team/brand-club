@@ -15,6 +15,7 @@ import Calls from "@/components/calls";
 import Contents from "@/components/contents";
 import { Element } from "react-scroll";
 import Meta from "@/components/Layout/Meta";
+import StudentTests from "@/components/studenttests";
 
 export default function Home() {
   return (
@@ -37,6 +38,7 @@ export default function Home() {
         <ClassContent />
       </Element>
       <Why />
+      <StudentTests />
       <FAQ />
       <Footer />
     </main>
