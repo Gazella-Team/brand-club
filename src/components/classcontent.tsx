@@ -12,7 +12,7 @@ const classContentData = [
     timeOfModule: "0:09:28",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under01.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Introduktion",
         moduleContentTime: "09:28",
       },
@@ -25,17 +25,17 @@ const classContentData = [
     timeOfModule: "0:17:26",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under02.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: " Skab dit tilbud",
         moduleContentTime: "08:02",
       },
       {
-        moduleContentImage: "/undercontents/under03.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Systemer og værktøjer vi bruger",
         moduleContentTime: "06:24",
       },
       {
-        moduleContentImage: "/undercontents/under04.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Lav din egen hjemmeside let",
         moduleContentTime: "03.00",
       },
@@ -48,17 +48,17 @@ const classContentData = [
     timeOfModule: "1:04:15",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under05.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Introduktion til outreach",
         moduleContentTime: "04:07",
       },
       {
-        moduleContentImage: "/undercontents/under06.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hvordan du finder kunder",
         moduleContentTime: "31:17",
       },
       {
-        moduleContentImage: "/undercontents/under07.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Succes Formularen til en masse kunder",
         moduleContentTime: "28:51",
       },
@@ -71,22 +71,22 @@ const classContentData = [
     timeOfModule: "0:26:06",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under08.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Svært ved at lukke kunder - gør dette!",
         moduleContentTime: "05:07",
       },
       {
-        moduleContentImage: "/undercontents/under09.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hvordan du skal Kommunikere med kunden",
         moduleContentTime: "04:55",
       },
       {
-        moduleContentImage: "/undercontents/under10.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hvordan du lukker en stor kunde på stedet",
         moduleContentTime: "10:01",
       },
       {
-        moduleContentImage: "/undercontents/under11.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hvordan du lukker den bedste aftale muligt",
         moduleContentTime: "06:03",
       },
@@ -99,38 +99,38 @@ const classContentData = [
     timeOfModule: "2:55:35",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under12.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading:
           "Hvordan algoritmerne virker og hvordan du profiterer på dette",
         moduleContentTime: "19:00",
       },
       {
-        moduleContentImage: "/undercontents/under13.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Din første video",
         moduleContentTime: "27:10",
       },
       {
-        moduleContentImage: "/undercontents/under14.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hvilke systemer du skal bruge og hvorfor",
         moduleContentTime: "1:01:16",
       },
       {
-        moduleContentImage: "/undercontents/under02.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hvordan du redigerer som en ekspert",
         moduleContentTime: "40:38",
       },
       {
-        moduleContentImage: "/undercontents/under16.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hemmelige teknikker ved postning",
         moduleContentTime: "10:29",
       },
       {
-        moduleContentImage: "/undercontents/under14.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Bedste metoder til Ideudvikling",
         moduleContentTime: "07:06",
       },
       {
-        moduleContentImage: "/undercontents/under18.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hvordan du garanterer dig gode resultater",
         moduleContentTime: "10:36",
       },
@@ -143,18 +143,18 @@ const classContentData = [
     timeOfModule: "07:38",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under19.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Håndtering af betaling fra kunder",
         moduleContentTime: "02:23",
       },
       {
-        moduleContentImage: "/undercontents/under20.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading:
           "Håndtering af udgifter for optimal profit margin",
         moduleContentTime: "03:09",
       },
       {
-        moduleContentImage: "/undercontents/under21.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading:
           "Hvordan du accepterer store betalinger fra kunder",
         moduleContentTime: "02:06",
@@ -168,7 +168,7 @@ const classContentData = [
     timeOfModule: "12:19",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under22.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hvordan du implementerer alle disse tiltag selv",
         moduleContentTime: "12:19",
       },
@@ -181,19 +181,19 @@ const classContentData = [
     timeOfModule: "1:12:33",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under03.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading:
           "Kvalificeret hjemmeside skabelon gennemgang fra a-z",
         moduleContentTime: "39:47",
       },
       {
-        moduleContentImage: "/undercontents/under24.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading:
           "Alle vores salgs, kommunikation, kundehåndtering, forhandling scripts",
         moduleContentTime: "20:00",
       },
       {
-        moduleContentImage: "/undercontents/under25.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Redigerings skabeloner til dine videoer",
         moduleContentTime: "12:52",
       },
@@ -206,22 +206,22 @@ const classContentData = [
     timeOfModule: "17:36",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under16.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hvornår skal jeg uddelegere mit arbejde?",
         moduleContentTime: "03:17",
       },
       {
-        moduleContentImage: "/undercontents/under20.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Hvordan du skalerer *step by step",
         moduleContentTime: "04:58",
       },
       {
-        moduleContentImage: "/undercontents/under28.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Sådan ansætter du din første ansatte",
         moduleContentTime: "06:37",
       },
       {
-        moduleContentImage: "/undercontents/under15.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Skaler dit agency og lav det sjove arbejde",
         moduleContentTime: "03:24",
       },
@@ -236,7 +236,7 @@ const englishClassContentData = [
     timeOfModule: "0:09:28",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under01.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Introduction",
         moduleContentTime: "09:28",
       },
@@ -249,17 +249,17 @@ const englishClassContentData = [
     timeOfModule: "0:17:26",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under04.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Crafting your offer",
         moduleContentTime: "08:02",
       },
       {
-        moduleContentImage: "/undercontents/under02.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Systems and tools",
         moduleContentTime: "06:24",
       },
       {
-        moduleContentImage: "/undercontents/under03.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Making your website",
         moduleContentTime: "03.00",
       },
@@ -272,17 +272,17 @@ const englishClassContentData = [
     timeOfModule: "1:03:75",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under04.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Introduction to outreach",
         moduleContentTime: "04:07",
       },
       {
-        moduleContentImage: "/undercontents/under05.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Finding leads",
         moduleContentTime: "31:17",
       },
       {
-        moduleContentImage: "/undercontents/under06.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "The succes formula for outreach",
         moduleContentTime: "28:51",
       },
@@ -295,22 +295,22 @@ const englishClassContentData = [
     timeOfModule: "0:25:66",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under07.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Turning Leads into customers",
         moduleContentTime: "05:07",
       },
       {
-        moduleContentImage: "/undercontents/under08.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Client communication",
         moduleContentTime: "04:55",
       },
       {
-        moduleContentImage: "/undercontents/under09.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Preparing yourself for the closing meeting",
         moduleContentTime: "10:01",
       },
       {
-        moduleContentImage: "/undercontents/under10.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Closing the meeting",
         moduleContentTime: "06:03",
       },
@@ -323,37 +323,37 @@ const englishClassContentData = [
     timeOfModule: "2:55:35",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under11.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Introduction to the algorithm",
         moduleContentTime: "19:00",
       },
       {
-        moduleContentImage: "/undercontents/under12.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Production expenses of your first video",
         moduleContentTime: "27:10",
       },
       {
-        moduleContentImage: "/undercontents/under13.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Editing systems",
         moduleContentTime: "1:01:16",
       },
       {
-        moduleContentImage: "/undercontents/under02.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Editing walkthrough (step by step)",
         moduleContentTime: "40:38",
       },
       {
-        moduleContentImage: "/undercontents/under16.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Posting the video",
         moduleContentTime: "10:29",
       },
       {
-        moduleContentImage: "/undercontents/under14.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Idea development",
         moduleContentTime: "07:06",
       },
       {
-        moduleContentImage: "/undercontents/under18.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Finding the content creators",
         moduleContentTime: "10:36",
       },
@@ -366,17 +366,17 @@ const englishClassContentData = [
     timeOfModule: "07:38",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under11.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Managing payments from clients",
         moduleContentTime: "02:23",
       },
       {
-        moduleContentImage: "/undercontents/under13.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Managing expenses",
         moduleContentTime: "03:09",
       },
       {
-        moduleContentImage: "/undercontents/under20.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "How to accept payments",
         moduleContentTime: "02:06",
       },
@@ -389,7 +389,7 @@ const englishClassContentData = [
     timeOfModule: "12:19",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under21.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "How we apply this to the videos",
         moduleContentTime: "12:19",
       },//
@@ -402,17 +402,17 @@ const englishClassContentData = [
     timeOfModule: "1:12:33",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under12.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Website template walkthrough",
         moduleContentTime: "39:47",
       },
       {
-        moduleContentImage: "/undercontents/under23.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "All the scripts we use",
         moduleContentTime: "20:00",
       },
       {
-        moduleContentImage: "/undercontents/under05.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Editing presets",
         moduleContentTime: "12:52",
       },
@@ -425,22 +425,22 @@ const englishClassContentData = [
     timeOfModule: "17:36",
     moduleContent: [
       {
-        moduleContentImage: "/undercontents/under15.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "When to outsource",
         moduleContentTime: "03:17",
       },
       {
-        moduleContentImage: "/undercontents/under12.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "How to outsource",
         moduleContentTime: "04:58",
       },
       {
-        moduleContentImage: "/undercontents/under29.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "How to find freelancers",
         moduleContentTime: "06:37",
       },
       {
-        moduleContentImage: "/undercontents/under28.jpg",
+        moduleContentImage: "/lock.webp",
         moduleContentHeading: "Managing while scaling",
         moduleContentTime: "03:24",
       },
