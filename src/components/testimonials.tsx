@@ -15,6 +15,14 @@ export default function Testimonials() {
         "Dybt overrasket over deres vidunderlige tilgang til tingene. Man kan mærke det er et ungt team der har styr på deres ting, og deres moderne tilgang til tingene slår bare igennem!",
     },
     {
+      personImage: "/testimonials/collegehub.webp",
+      name: "Tobias",
+      position: "Collegehub",
+      companyImage: "/meta.png",
+      words:
+        "Vi stødte ind i Benjamin i vores butik på Strøget, hvor Benjamin klargjorde vækstmulighederne gennem Organisk markedsføring med engagerende videoer. Vi var i gang med opsætning af vores online webshop, og derfor var Benjamin og hans team som faldt fra himlen. På under 2 uger gik vi fra en helt ny TikTok med 0 følgere, til mere end 10k. Vi fik en fantastisk launch, og dette kunne vi ikke have opnået uden Sebastian og Benjamin. Drengene er engagerede, seriøse og pisse dygtige til online formidling i øjenhøjde med det unge men også ældre segment. At de både har en strategisk og logisk tilgang, sammen med fingeren på pulsen, gør gutterne til en super samarbejdspartner. Kæmpe anbefaling herfra!",
+    },
+    {
       personImage: "/emilstrande.png",
       name: "Emil Strande",
       position: "Ejer - Letzsneak",
@@ -31,6 +39,14 @@ export default function Testimonials() {
       companyImage: "/meta.png",
       words:
         "Deeply surprised by their wonderful approach to things. You can tell it's a young team that has their stuff under control, and their modern approach to things just shines through! They are in the process of revolutionizing the way marketing is done. - big recommendation from here!c",
+    },
+    {
+      personImage: "/testimonials/collegehub.webp",
+      name: "Tobias",
+      position: "Collegehub",
+      companyImage: "/meta.png",
+      words:
+        "We bumped into Benjamin in our store on Strøget, where Benjamin clarified the growth opportunities through organic marketing/ branding with engaging videos. We were in the process of setting up our online webshop, and therefore Benjamin and his team fell from the sky. In less than 2 weeks we went from a brand new TikTok with 0 followers to more than 10k. We had a fantastic launch, and we could not have achieved this without Sebastian and Benjamin. The boys are committed, serious and very good at online communication at eye level with the young but also older segment. The fact that they both have a strategic and logical approach, together with their finger on the pulse, makes the guys a super collaborative partner. Huge recommendation from here!",
     },
     {
       personImage: "/emilstrande.png",
