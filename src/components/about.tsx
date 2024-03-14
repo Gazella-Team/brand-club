@@ -14,7 +14,7 @@ export default function About() {
       />
       <div className="w-sectionMain mx-auto max-w-main text-white text-center">
         <Reveal>
-          <h1 className="text-heroHeading font-[700] w-[80%] mx-auto">
+          <h1 className="text-heroHeading font-[700] w-[80%] mx-auto navbar:text-[20px]">
             {currentPath === "/en"
               ? "Read more about who we are, what we do and how we got to where we are today."
               : "Læs mere omkring hvem vi er, hvad vi laver, og hvordan vi er nået til der, hvor vi er i dag"}{" "}
