@@ -61,7 +61,7 @@ import {
       heading: "Egnet til nybegyndere og letøvede ",
       icon: <Globe />,
       description:
-        "Vi tager dig gennem rejsen  fra A-z så du kan opbygge dit eget 60k/ måned organic agency. Denne masterclass er for alle; Dem der først lige starter, erfarne agency ejere og endda store virksomheder som vil skalere deres brand.",
+        "Vi tager dig gennem rejsen  fra A-z så du kan opbygge dit eget 60k/ måned OCMA. Denne masterclass er for alle; Dem der først lige starter, erfarne agency ejere og endda store virksomheder som vil skalere deres brand.",
     },
     {
       heading: "Vores værktøjer og skabeloner ",
@@ -148,7 +148,7 @@ import {
                 ? "What does our Masterclass"
                 : " Hvad indeholder "}{" "}
               <span className="text-blue-500">
-                {currentPath === "/en" ? "include?" : "vores masterclass"}
+                {currentPath === "/en" ? "include?" : "vores masterclass?"}
               </span>
             </h1>
           </Reveal>

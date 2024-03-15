@@ -24,8 +24,8 @@ export default function Articles() {
           <Reveal>
             <p className="text-heroDescription text-gray-200 mb-[40px] w-[90%]">
               {currentPath === "/en"
-                ? "The twins Benjamin and Sebastian are well-known faces all over the country. They have run the well-known clothing store Linenclothing and a. have written about our success at a young age. At OCMA Masterclass, we focus on showing you reality without a filter and let our experience and results speak for themselves"
-                : "Tvillingerne Benjamin og Sebastian  er velkendte ansigter over hele landet. De har Drevet den velkendte tøjforretning Linenclothing og bl. a. har JydskeVestkysten, Sjællandske Nyheder, Ugeavisen og Det Grønne Område skrevet om vores succes i en ung alder. Hos OCMA Masterclass sætter vi fokus på at vise dig virkeligheden uden filter og lader vores erfaringer og resultater tale for sig selv."}
+                ? "The twins Benjamin and Sebastian are well-known faces all over the country. They have run the well-known clothing store Linenclothing and a. have written about their success at a young age. At OCMA Masterclass, we focus on showing you reality without a filter and let our experience and results speak for themselves"
+                : "Tvillingerne Benjamin og Sebastian  er velkendte ansigter over hele landet. De har Drevet den velkendte tøjforretning Linenclothing og bl. a. har JydskeVestkysten, Sjællandske Nyheder, Ugeavisen og Det Grønne Område skrevet om deres succes i en ung alder. Hos OCMA Masterclass sætter vi fokus på at vise dig virkeligheden uden filter og lader vores erfaringer og resultater tale for sig selv."}
             </p>
           </Reveal>
           <div>
