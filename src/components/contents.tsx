@@ -107,12 +107,6 @@ import {
       description:
         "You have 24/7 access to our masterclass, which is developed in our own software.",
     },
-    {
-      heading: "30+ step by step in-depth modules",
-      icon: <ShieldCheck />,
-      description:
-        "We have rolled out more than 30+ in-depth modules that teach you exactly how to succeed with your OCMA.",
-    },
   ];
   const englishContentsDataLeft = [
     {
@@ -138,12 +132,6 @@ import {
       icon: <CircleDollarSign />,
       description:
         "We take you from a-z on how you can take your new business to 50k/month. We have developed an entire chapter that elaborates on this concretely.",
-    },
-    {
-      heading: "Sparring group",
-      icon: <CircleDollarSign />,
-      description:
-        "You will both be added to the larger group with all the members, but then we will also add you to a sparring group with 3-4 other members we dedicatedly select ourselves, who are like-minded entrepreneurs who will also help you on your journey.",
     },
   ];
   

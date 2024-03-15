@@ -71,8 +71,8 @@ export default function Testimonials() {
         <Reveal>
           <p className="text-sectionDescription text-gray-200 mb-[60px]">
             {currentPath === "/en"
-              ? "What students say about us and our expertise"
-              : "Hvad elever siger om os og vores expertise"}
+              ? "What business owners say about us"
+              : "Hvad forretningsejere siger om os"}
           </p>
         </Reveal>
         {currentPath === "/en" ? (
