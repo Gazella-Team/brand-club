@@ -9,8 +9,8 @@ export default function Footer() {
         <div className="w-[90%] mx-auto max-w-[800px] mb-[60px] flex flex-col items-center">
           <h1 className="text-center text-white text-[40px] font-[700] mb-[40px]">
             {currentPath === "/en"
-              ? "Step by step on how you can achieve an organic agency, with turnover of $9.000 / month"
-              : "Step by step på hvordan du kan opnå et organisk agency, med omsætning på 60.000 DKK / måned"}
+              ? "Step by step on how you can achieve an OCMA, with turnover of $9.000 / month"
+              : "Step by step på hvordan du kan opnå et OCMA, med omsætning på 60.000 DKK / måned"}
           </h1>
           <Link
             className="bg-blue-500 text-white p-[30px] py-[10px] rounded-full text-glow"
