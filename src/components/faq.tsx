@@ -14,7 +14,7 @@ const questions = [
   {
     question: "Hvad er jeres garanti?",
     answer:
-      "Vi garanterer dig en indkomst på 20.000,- / måned i 180 dage, ellers sender vi hver eneste krone tilbage + 12.000 kroner fra vores egen pung",
+      "Vi garanterer dig en indkomst på 20.000,- / måned efter 180 dage, ellers sender vi hver eneste krone tilbage + 12.000 kroner fra vores egen pung",
   },
   {
     question: "Kan jeg gøre dette, mens jeg går i skole/arbejder?",
@@ -52,7 +52,7 @@ const englishQuestions = [
   {
     question: "What is your warranty?",
     answer:
-      "We guarantee you an income of NOK 20,000 / month for 180 days, otherwise we will return every penny + NOK 12,000 from our own wallet",
+      "We guarantee you an income of NOK 20,000 / month after 180 days, otherwise we will return every penny + NOK 12,000 from our own wallet",
   },
   {
     question: "Can I do this while going to school/working?",

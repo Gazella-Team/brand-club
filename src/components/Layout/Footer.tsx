@@ -36,18 +36,6 @@ export default function Footer() {
                 : "Masterclassen til dig der vil skabe en profitabel forretning"}
             </p>
           </div>
-          <div className="grid grid-cols-2 items-end navbar:flex navbar:gap-[30px] foots:flex-col foots:items-start">
-            <img
-              alt="tiktok"
-              className="w-[200px] object-cover text-glow"
-              src="/tiktokpartner.png"
-            ></img>
-            <img
-              alt="shopify"
-              className="w-[150px] text-glow"
-              src="/shopifypartner.png"
-            ></img>
-          </div>
         </div>
         <div className="flex items-center justify-between py-[20px] text-white foots:flex-col foots:items-start">
           <p>© {new Date().getFullYear()}, OCMA Masterclass</p>
