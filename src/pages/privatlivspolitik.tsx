@@ -116,6 +116,14 @@ export default function Privat() {
               tage kontakt til Datatilsynet.
             </p>
           </div>
+          <div className="mb-[50px]">
+            <h1 className="text-[30px] font-[700] mb-[20px]">
+            Live event: 
+            </h1>
+            <p className="text-[18px]">
+            Jeg skriver mig op og godkender at vinderen til giveawayen først findes når der som min. har været 500 signups. Jeg tillader også at virksomheden kan ringe og kontakte mig over mail hvis det er nødvendigt.
+            </p>
+          </div>
         </div>
       </section>
       <Footer />

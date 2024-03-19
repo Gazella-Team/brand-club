@@ -1,6 +1,7 @@
 import Slider from "react-infinite-logo-slider";
 import { Reveal } from "./Animations/Reveal";
 import Link from "next/link";
+import { useRouter } from "next/router";
 
 const featuresData = [
   {
@@ -32,10 +33,12 @@ const featuresData = [
 ];
 
 export default function FeaturesSlider() {
+  const router = useRouter();
+  const currentPath = router.pathname.slice(0, 3);
   return (
     <section className="py-[80px]">
       <div>
-      <p className="text-center font-[500] text-[20px]">Rost af bla:</p>
+      <p className="text-center font-[500] text-[20px]">{currentPath === "/en" ? "Praised by:":"Rost af bla:"}</p>
         <Slider
           width="160px"
           duration={20}
