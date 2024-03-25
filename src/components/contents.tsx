@@ -25,12 +25,7 @@ import {
       description:
         "Alle lærer forskelligt; derfor har vi implementeret community opkald hver uge, hvor du kan få svar på alle dine spørgsmål",
     },
-    {
-      heading: "Egnet til nybegyndere og letøvede",
-      icon: <MessageCircleMore />,
-      description:
-        "Vi tager dig gennem rejsen fra A-z så du kan opbygge dit eget OCMA. Denne masterclass er for alle; Dem der først lige starter, erfarne agency ejere og endda store virksomheder som vil skalere deres brand.",
-    },
+
     {
       heading: "Vores resultater, værktøjer og skabeloner",
       icon: <Footprints />,
@@ -68,12 +63,6 @@ import {
       icon: <ScissorsSquare />,
       description:
         "Vi giver dig alle vores dybdegående værktøjer, systemer og skabeloner vi selv bruger til vores forretning.",
-    },
-    {
-      heading: "Hvordan du skalerer dit agency til 60k/måned",
-      icon: <CircleDollarSign />,
-      description:
-        "Vi tager dig fra a-z på hvordan du kan tage din nye forretning til 60k/ måned.",
     },
     {
       heading: "30+ trin for trin dybdegående moduler",
