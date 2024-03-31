@@ -50,7 +50,7 @@ import {
       heading: "Support samme dag",
       icon: <HeartHandshakeIcon />,
       description:
-        "Support samme dag - Vi fokusere på den enkleste succeshistorie, derfor svarer vi med det samme når du har brug for hjælp :)",
+        "Support samme dag - Vi fokuserer på den individets  succeshistorie, derfor stræber vi efter at svare med det samme når du har brug for hjælp 🙂",
     },
     {
       heading: "Egnet til nybegyndere og letøvede ",
@@ -62,7 +62,7 @@ import {
       heading: "Vores værktøjer og skabeloner ",
       icon: <ScissorsSquare />,
       description:
-        "Vi giver dig alle vores dybdegående værktøjer, systemer og skabeloner vi selv bruger til vores forretning.",
+        "Vi giver dig alle vores dybdegående værktøjer, systemer og skabeloner vi selv bruger til vores eget agency",
     },
     {
       heading: "30+ trin for trin dybdegående moduler",
