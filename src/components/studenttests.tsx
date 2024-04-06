@@ -7,14 +7,6 @@ export default function StudentTests() {
   const currentPath = router.pathname.slice(0, 3);
   const testimonialsData = [
     {
-      personImage: "/testimonials/mads.webp",
-      name: "Mads",
-      position: "Student - OCMA Masterclass",
-      companyImage: "/meta.png",
-      words:
-        "Fantastiske gutter samt et fantastisk gennemført og detaljeret kursus! Var ikke igang mere end 1 uge, før min første kunde var lukket. Jeg har nu flere på vej og ser kun frem til flere aftaler fremadrettet, grundet deres enorme viden og hjælpsomhed. Drengene er helt nede på jorden og man får en fornemmelse under deres samarbejde, at hver enkelt kursist succes, er deres succes. Deres 1:1 hjælp er derfor enormt brugbart og fungerer helt i top! Kæææmpe anbefaling herfra!🙏🏽",
-    },
-    {
       personImage: "/testimonials/oskar.webp",
       name: "Oskar",
       position: "Student - OCMA Masterclass",
@@ -24,14 +16,6 @@ export default function StudentTests() {
     },
   ];
   const englishTestimonialsData = [
-    {
-        personImage: "/testimonials/mads.webp",
-        name: "Mads",
-        position: "Student - OCMA Masterclass",
-        companyImage: "/meta.png",
-        words:
-          "Great guys as well as a great completed and detailed course! Wasn't running more than 1 week before my first customer was closed. I now have more on the way and can only look forward to more agreements in the future, due to their enormous knowledge and helpfulness. The boys are down to earth and you get the feeling during their collaboration that the success of each individual student is their success. Their 1:1 help is therefore enormously useful and works perfectly! Huge recommendation from here!🙏🏽",
-      },
     {
       personImage: "/testimonials/oskar.webp",
       name: "Oskar",
