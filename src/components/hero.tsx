@@ -74,7 +74,7 @@ export default function Hero() {
                     <ArrowDown />
                   </span>
                 </h1>
-                <a href="https://ocmamasterclass.com">
+                <a href="https://ocmamasterclass.com/en">
                   <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
                 </a>
               </div>
@@ -86,7 +86,7 @@ export default function Hero() {
                     <ArrowDown />
                   </span>
                 </h1>
-                <a href="https://ocmamasterclass.com/">
+                <a href={"https://ocmamasterclass.com/"}>
                   <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
                 </a>
               </div>
