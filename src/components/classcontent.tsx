@@ -6,223 +6,238 @@ import { useRouter } from "next/router";
 
 const classContentData = [
   {
-    image: "/contents/new01.jpg",
-    mainHeading: "Dit fundament",
-    videoQuantity: "1",
+    image: "/chaps/ch1.jpg",
+    mainHeading: "Dine foundations",
+    videoQuantity: "2",
     timeOfModule: "0:09:28",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Introduktion",
-        moduleContentTime: "09:28",
+        moduleContentHeading: "Introduktion til OCMA",
+        moduleContentTime: "07:01",
+      },
+      {
+        moduleContentImage: "/lock.webp",
+        moduleContentHeading: "Dine foundations",
+        moduleContentTime: "06:33",
       },
     ],
   },
   {
-    image: "/contents/new02.jpg",
-    mainHeading: "Agency fundamenter",
-    videoQuantity: "3",
+    image: "/chaps/ch2.jpg",
+    mainHeading: "Byg dit eget OCMA fra bunden",
+    videoQuantity: "5",
     timeOfModule: "0:17:26",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: " Skab dit tilbud",
+        moduleContentHeading: "Dit OCMA udefra",
         moduleContentTime: "08:02",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Systemer og værktøjer vi bruger",
+        moduleContentHeading: "OCMA, verden af systemer",
         moduleContentTime: "06:24",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Lav din egen hjemmeside let",
+        moduleContentHeading: "Sådan laver du dit digitale visitkort",
+        moduleContentTime: "03.00",
+      },
+      {
+        moduleContentImage: "/lock.webp",
+        moduleContentHeading: "Opsætning af din online tilstedeværelse",
+        moduleContentTime: "06:24",
+      },
+      {
+        moduleContentImage: "/lock.webp",
+        moduleContentHeading: "Lav din linkedin fra bunden",
         moduleContentTime: "03.00",
       },
     ],
   },
   {
-    image: "/contents/new03.jpg",
-    mainHeading: "Fremskaffelse af betalende kunder",
+    image: "/chaps/ch3.jpg",
+    mainHeading: "Få din fod indenfor døren",
     videoQuantity: "3",
     timeOfModule: "1:04:15",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Introduktion til outreach",
+        moduleContentHeading: "Introduktion til at kontakte virksomheder",
         moduleContentTime: "04:07",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvordan du finder kunder",
+        moduleContentHeading: "Hvilke forretninger at kontakte + metoderne bag",
         moduleContentTime: "31:17",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Succes Formularen til en masse kunder",
+        moduleContentHeading: "“OCMA” opskriften for outreach",
         moduleContentTime: "28:51",
       },
     ],
   },
   {
-    image: "/contents/new04.jpg",
-    mainHeading: "Lukke de store aftaler ",
-    videoQuantity: "4",
+    image: "/chaps/ch4.jpg",
+    mainHeading: "Få planterne til at spire (luk handlerne)",
+    videoQuantity: "3",
     timeOfModule: "0:26:06",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Svært ved at lukke kunder - gør dette!",
+        moduleContentHeading: "“lav” handlen",
         moduleContentTime: "05:07",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvordan du skal Kommunikere med kunden",
+        moduleContentHeading: "Follow up på dine kunder",
         moduleContentTime: "04:55",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvordan du lukker en stor kunde på stedet",
+        moduleContentHeading: "Forberedelser på at fange din første fisk",
         moduleContentTime: "10:01",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvordan du lukker den bedste aftale muligt",
-        moduleContentTime: "06:03",
       },
     ],
   },
   {
-    image: "/contents/08.jpeg",
-    mainHeading: "Levere resultater",
+    image: "/chaps/ch5.jpg",
+    mainHeading: "Lær forretningen selv og outsource derefter",
     videoQuantity: "7",
     timeOfModule: "2:55:35",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
         moduleContentHeading:
-          "Hvordan algoritmerne virker og hvordan du profiterer på dette",
+          "Maskineriet bag resultaterne",
         moduleContentTime: "19:00",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Din første video",
+        moduleContentHeading: "Pris for inhouse produktion",
         moduleContentTime: "27:10",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvilke systemer du skal bruge og hvorfor",
+        moduleContentHeading: "Fundemental gennemgang af redigering",
         moduleContentTime: "1:01:16",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvordan du redigerer som en ekspert",
+        moduleContentHeading: "Professionel “flue på væggen”(mens vi redigerer)",
         moduleContentTime: "40:38",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hemmelige teknikker ved postning",
+        moduleContentHeading: "Post første stykke materiale",
         moduleContentTime: "10:29",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Bedste metoder til Ideudvikling",
+        moduleContentHeading: "Content scaler “aldrig løb tør for ideer”",
         moduleContentTime: "07:06",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvordan du garanterer dig gode resultater",
+        moduleContentHeading: "Find dine creators",
         moduleContentTime: "10:36",
       },
     ],
   },
   {
-    image: "/contents/09.jpeg",
-    mainHeading: "Drift af et profitabelt OCMA",
-    videoQuantity: "3",
+    image: "/chaps/ch6.jpg",
+    mainHeading: "System tracking / progressivt udvikling i din forretning",
+    videoQuantity: "2",
     timeOfModule: "07:38",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Håndtering af betaling fra kunder",
+        moduleContentHeading: "Overblik over forretningen",
         moduleContentTime: "02:23",
       },
       {
         moduleContentImage: "/lock.webp",
         moduleContentHeading:
-          "Håndtering af udgifter for optimal profit margin",
+          "Bogfør i din forretning",
         moduleContentTime: "03:09",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading:
-          "Hvordan du accepterer store betalinger fra kunder",
-        moduleContentTime: "02:06",
       },
     ],
   },
   {
-    image: "/contents/new03.jpg",
-    mainHeading: "Implementering Af vores metoder",
+    image: "/chaps/ch7.jpg",
+    mainHeading: "Se blomsten spire",
     videoQuantity: "1",
     timeOfModule: "12:19",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvordan du implementerer alle disse tiltag selv",
+        moduleContentHeading: "Et indblik i en af vores kunder",
         moduleContentTime: "12:19",
       },
     ],
   },
   {
-    image: "/contents/new01.jpg",
-    mainHeading: "Alle vores egne private systemer og metoder",
-    videoQuantity: "3",
+    image: "/chaps/ch8.jpg",
+    mainHeading: "Strømlinet OCMA systemer",
+    videoQuantity: "5",
     timeOfModule: "1:12:33",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
         moduleContentHeading:
-          "Kvalificeret hjemmeside skabelon gennemgang fra a-z",
+          "CRM system - administre dine leads",
         moduleContentTime: "39:47",
       },
       {
         moduleContentImage: "/lock.webp",
         moduleContentHeading:
-          "Alle vores salgs, kommunikation, kundehåndtering, forhandling scripts",
+          "Byg dit digitale visitkort",
         moduleContentTime: "20:00",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Redigerings skabeloner til dine videoer",
+        moduleContentHeading: "Gennemgang af hvordan du laver en hightech hjemmeside",
+        moduleContentTime: "12:52",
+      },
+      {
+        moduleContentImage: "/lock.webp",
+        moduleContentHeading:
+          "OCMA - manuskripter på alt",
+        moduleContentTime: "20:00",
+      },
+      {
+        moduleContentImage: "/lock.webp",
+        moduleContentHeading: "OCMA - redigerings smuthuller",
         moduleContentTime: "12:52",
       },
     ],
   },
   {
-    image: "/contents/new02.jpg",
-    mainHeading: "Hvordan du skalerer dit organic agency til 60k/ måned",
+    image: "/chaps/ch9.jpg",
+    mainHeading: "Arbejd ikke “i” virksomheden arbejd “på” virksomheden",
     videoQuantity: "4",
     timeOfModule: "17:36",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvornår skal jeg uddelegere mit arbejde?",
+        moduleContentHeading: "“hvornår skal du trykke på outsource triggeren",
         moduleContentTime: "03:17",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvordan du skalerer *step by step",
+        moduleContentHeading: "Få din forretning til at arbejde for dig",
         moduleContentTime: "04:58",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Sådan ansætter du din første ansatte",
+        moduleContentHeading: "Find freelancere",
         moduleContentTime: "06:37",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Skaler dit agency og lav det sjove arbejde",
+        moduleContentHeading: "Håndter hjulet, mens du skalerer",
         moduleContentTime: "03:24",
       },
     ],
@@ -230,7 +245,7 @@ const classContentData = [
 ];
 const englishClassContentData = [
   {
-    image: "/contents/new01.jpg",
+    image: "/chaps/ch1.jpg",
     mainHeading: "Your Foundations",
     videoQuantity: "1",
     timeOfModule: "0:09:28",
@@ -243,205 +258,215 @@ const englishClassContentData = [
     ],
   },
   {
-    image: "/contents/new02.jpg",
-    mainHeading: "Agency foundations",
-    videoQuantity: "3",
+    image: "/chaps/ch2.jpg",
+    mainHeading: "Building your own OCMA from scratch",
+    videoQuantity: "5",
     timeOfModule: "0:17:26",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Crafting your offer",
+        moduleContentHeading: "Your OCMA from the outside",
         moduleContentTime: "08:02",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Systems and tools",
+        moduleContentHeading: "OCMA, the world of systems",
         moduleContentTime: "06:24",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Making your website",
+        moduleContentHeading: "How to make your digital business card",
+        moduleContentTime: "03.00",
+      },
+      {
+        moduleContentImage: "/lock.webp",
+        moduleContentHeading: "Setting up your online presence",
+        moduleContentTime: "06:24",
+      },
+      {
+        moduleContentImage: "/lock.webp",
+        moduleContentHeading: "Build your linkedin from scratch",
         moduleContentTime: "03.00",
       },
     ],
   },
   {
-    image: "/contents/new03.jpg",
-    mainHeading: "Outreach",
+    image: "/chaps/ch3.jpg",
+    mainHeading: "Getting your foot in the door",
     videoQuantity: "3",
     timeOfModule: "1:03:75",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Introduction to outreach",
+        moduleContentHeading: "Introduction to contacting businesses",
         moduleContentTime: "04:07",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Finding leads",
+        moduleContentHeading: "Which businesses to contact + the methods behind it",
         moduleContentTime: "31:17",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "The succes formula for outreach",
+        moduleContentHeading: "The OCMA recipe for outreach",
         moduleContentTime: "28:51",
       },
     ],
   },
   {
-    image: "/contents/new04.jpg",
-    mainHeading: "Closing the big deals",
-    videoQuantity: "4",
+    image: "/chaps/ch4.jpg",
+    mainHeading: "Make the plants sprout (close the deals)",
+    videoQuantity: "3",
     timeOfModule: "0:25:66",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Turning Leads into customers",
+        moduleContentHeading: "Make the deal",
         moduleContentTime: "05:07",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Client communication",
+        moduleContentHeading: "Follow up on your customers",
         moduleContentTime: "04:55",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Preparing yourself for the closing meeting",
+        moduleContentHeading: "Preparing to catch your first fish",
         moduleContentTime: "10:01",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Closing the meeting",
-        moduleContentTime: "06:03",
       },
     ],
   },
   {
-    image: "/contents/08.jpeg",
-    mainHeading: "Service delivery",
+    image: "/chaps/ch5.jpg",
+    mainHeading: "Learn the business yourself and then outsource",
     videoQuantity: "7",
     timeOfModule: "2:55:35",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Introduction to the algorithm",
+        moduleContentHeading: "The machinery behind the results",
         moduleContentTime: "19:00",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Production expenses of your first video",
+        moduleContentHeading: "Cost of in-house production",
         moduleContentTime: "27:10",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Editing systems",
+        moduleContentHeading: "Fundamental walkthrough of editing",
         moduleContentTime: "1:01:16",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Editing walkthrough (step by step)",
+        moduleContentHeading: "Professional fly on the wall (while we edit)",
         moduleContentTime: "40:38",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Posting the video",
+        moduleContentHeading: "Post first piece of material",
         moduleContentTime: "10:29",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Idea development",
+        moduleContentHeading: "Content scaler never ran out of ideas",
         moduleContentTime: "07:06",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Finding the content creators",
+        moduleContentHeading: "Find your creators",
         moduleContentTime: "10:36",
       },
     ],
   },
   {
-    image: "/contents/09.jpeg",
-    mainHeading: "Running a profitable 10,000 $ /month organic agency",
-    videoQuantity: "3",
+    image: "/chaps/ch6.jpg",
+    mainHeading: "System tracking / progressive development in your business",
+    videoQuantity: "2",
     timeOfModule: "07:38",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Managing payments from clients",
+        moduleContentHeading: "Overview of the business",
         moduleContentTime: "02:23",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Managing expenses",
+        moduleContentHeading: "Accounting in your business",
         moduleContentTime: "03:09",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "How to accept payments",
-        moduleContentTime: "02:06",
       },
     ],//
   },
   {
-    image: "/contents/new03.jpg",
-    mainHeading: "Implementation",
+    image: "/chaps/ch7.jpg",
+    mainHeading: "Watch the flower sprout",
     videoQuantity: "1",
     timeOfModule: "12:19",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "How we apply this to the videos",
+        moduleContentHeading: "An insight into one of our customers",
         moduleContentTime: "12:19",
       },//
     ],
   },
   {
-    image: "/contents/new01.jpg",
-    mainHeading: "Our streamlined systems & processes",
-    videoQuantity: "3",
+    image: "/chaps/ch8.jpg",
+    mainHeading: "Streamlined OCMA systems",
+    videoQuantity: "5",
     timeOfModule: "1:12:33",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Website template walkthrough",
+        moduleContentHeading: "CRM system - manage your leads",
         moduleContentTime: "39:47",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "All the scripts we use",
+        moduleContentHeading: "Build your digital business card",
         moduleContentTime: "20:00",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Editing presets",
+        moduleContentHeading: "How to create a high-tech website",
+        moduleContentTime: "12:52",
+      },
+      {
+        moduleContentImage: "/lock.webp",
+        moduleContentHeading: "OCMA - script everything",
+        moduleContentTime: "20:00",
+      },
+      {
+        moduleContentImage: "/lock.webp",
+        moduleContentHeading: "OCMA - editing loopholes",
         moduleContentTime: "12:52",
       },
     ],
   },
   {
-    image: "/contents/new02.jpg",
-    mainHeading: "Scalability ",
+    image: "/chaps/ch9.jpg",
+    mainHeading: "Don't work in the business, work on the business",
     videoQuantity: "4",
     timeOfModule: "17:36",
     moduleContent: [
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "When to outsource",
+        moduleContentHeading: "When to pull the outsource trigger",
         moduleContentTime: "03:17",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "How to outsource",
+        moduleContentHeading: "Make your business work for you",
         moduleContentTime: "04:58",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "How to find freelancers",
+        moduleContentHeading: "Find freelancers ",
         moduleContentTime: "06:37",
       },
       {
         moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Managing while scaling",
+        moduleContentHeading: "Handle the wheel while scaling your business",
         moduleContentTime: "03:24",
       },
     ],
@@ -513,12 +538,9 @@ const ClassContentCard = (props: any) => {
             <div className="flex items-center gap-[20px]">
               <div className="flex items-center gap-[6px]">
                 <Play />
-                <p>{props.Obj.videoQuantity} videoer</p>
+                <p>{props.Obj.videoQuantity} {currentPath === "/en" ? "videos":"videoer"}</p>
               </div>
-              <div className="flex items-center gap-[6px]">
-                <Clock />
-                <p>{props.Obj.timeOfModule}</p>
-              </div>
+
             </div>
           </div>
           <div className="flex flex-col justify-end trustbadgesTwo:items-end">
@@ -552,10 +574,7 @@ const ClassContentCard = (props: any) => {
                   <h1 className="font-[700] mb-[10px]">
                     {v.moduleContentHeading}
                   </h1>
-                  <div className="flex items-center gap-[6px]">
-                    <Clock />
-                    <p>{v.moduleContentTime}</p>
-                  </div>
+
                 </div>
               </div>
             ))}

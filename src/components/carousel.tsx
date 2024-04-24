@@ -22,7 +22,7 @@ export default function CoolCarousel() {
           >
             <img
               alt="article"
-              className="w-full aspect-w-1 aspect-h-1"
+              className="w-full object-cover aspect-w-1 aspect-h-1"
               src="/1.png"
             ></img>
           </Link>
@@ -35,7 +35,7 @@ export default function CoolCarousel() {
           >
             <img
               alt="article"
-              className="h-full aspect-w-1 aspect-h-1"
+              className="h-full object-cover aspect-w-1 aspect-h-1"
               src="/2.png"
             ></img>
             <p>Lyngby</p>

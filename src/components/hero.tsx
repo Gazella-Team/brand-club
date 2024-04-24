@@ -24,6 +24,35 @@ export default function Hero() {
               </span>
             </h1>
           </Reveal>
+          <div className="items-center justify-center flex mb-10 sm:hidden">
+          <Reveal>
+            {currentPath === "/en" ? (
+              <div className="flex flex-col items-center">
+                <h1 className="text-white text-[20px] font-[700] text-center mb-[30px] flex items-center gap-[10px]">
+                  Watch our free demo video
+                  <span>
+                    <ArrowDown />
+                  </span>
+                </h1>
+                <a href="https://ocmamasterclass.com/en">
+                  <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
+                </a>
+              </div>
+            ) : (
+              <div className="flex flex-col items-center">
+                <h1 className="text-white text-[20px] font-[700] text-center mb-[30px] flex items-center gap-[10px]">
+                  Se vores gratis læringsvideo{" "}
+                  <span>
+                    <ArrowDown />
+                  </span>
+                </h1>
+                <a href={"https://ocmamasterclass.com/"}>
+                  <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
+                </a>
+              </div>
+            )}
+          </Reveal>
+        </div>
           <Reveal>
             <p className="text-heroDescription text-gray-200 mb-[40px] w-[90%]">
               {currentPath === "/en"
@@ -64,7 +93,7 @@ export default function Hero() {
           </div>
         </div>
 
-        <div className="flex items-center justify-center">
+        <div className="items-center justify-center hidden sm:flex">
           <Reveal>
             {currentPath === "/en" ? (
               <div className="flex flex-col items-center">

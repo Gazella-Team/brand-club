@@ -7,22 +7,38 @@ export default function StudentTests() {
   const currentPath = router.pathname.slice(0, 3);
   const testimonialsData = [
     {
-      personImage: "/testimonials/oskar.webp",
-      name: "Oskar",
+      personImage: "/la.jpg",
+      name: "Victor Roenholt",
       position: "Student - OCMA Masterclass",
       companyImage: "/meta.png",
       words:
-        "Ekstrem god masterclass om den nye OCMA  forretningsmodel. Du lærer alt fra hvordan man bygger en kæmpe forretning op omkring det (som ejerne selv har gjort) til hvordan man performer for sine kunder. Virkelig et produkt, der er veludført, og hvor der er tænkt på hver evig lille detalje. Kan kun anbefales :)",
+        "Fantastisk kursus og fantastiske fyre! Jeg lukkede min første kunde inden for en uge. Er kommet op på et beløb som jeg selv synes virker helt surrealistisk. Efter 2 måneder kan jeg stolt sige at jeg er kommet op på 50.000kr/måneden",
+    },
+    {
+      personImage: "/ra.jpg",
+      name: "Marcus Offersen",
+      position: "Student - OCMA Masterclass",
+      companyImage: "/meta.png",
+      words:
+        "6 ugers OCMA masterclass! Har allerede fået 47000kr's / månedlige indtægt i mit organiske bureau alene. Kurset er praktisk og resultatorienteret. Min plan er at ramme + 100.000kr indsamlet / måned inden den 1. juli (3 måneder fra nu)",
     },
   ];
   const englishTestimonialsData = [
     {
-      personImage: "/testimonials/oskar.webp",
-      name: "Oskar",
+      personImage: "/la.jpg",
+      name: "Victor Roenholt",
       position: "Student - OCMA Masterclass",
       companyImage: "/meta.png",
       words:
-        "Really good program about organic agency. You learn everything from how to build a huge business around it (as the owner has done) to how to perform for your customers. Truly a product that is well-executed, and where every little detail has been thought of. Can only be recommended.",
+        "Great course and great guys! I closed my first client within a week. I've reached an amount that seems surreal to me. After 2 months I can proudly say that I have reached 50.000kr/month",
+    },
+    {
+      personImage: "/ra.jpg",
+      name: "Marcus Offersen",
+      position: "Student - OCMA Masterclass",
+      companyImage: "/meta.png",
+      words:
+        "6 weeks OCMA masterclass! I Have already gained 7000$/monthly revenue in my organic agency alone. The course is practical and result-oriented. My plan is to hit +15000$ collected/month by July 1st (3 months from now)",
     },
   ];
   return (

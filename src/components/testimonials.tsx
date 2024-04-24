@@ -7,7 +7,7 @@ export default function Testimonials() {
   const currentPath = router.pathname.slice(0, 3);
   const testimonialsData = [
     {
-      personImage: "/thomastheil.png",
+      personImage: "/tt.jpg",
       name: "Thomas Theil",
       position: "Ejer - Cinnamon Coffee",
       companyImage: "/meta.png",
@@ -23,7 +23,7 @@ export default function Testimonials() {
         "Vi stødte ind i Benjamin i vores butik på Strøget, hvor Benjamin klargjorde vækstmulighederne gennem Organisk markedsføring med engagerende videoer. Vi var i gang med opsætning af vores online webshop, og derfor var Benjamin og hans team som faldt fra himlen. På under 2 uger gik vi fra en helt ny TikTok med 0 følgere, til mere end 10k.",
     },
     {
-      personImage: "/emilstrande.png",
+      personImage: "/ls.jpg",
       name: "Emil Strande",
       position: "Ejer - Letzsneak",
       companyImage: "/meta.png",
@@ -33,7 +33,7 @@ export default function Testimonials() {
   ];
   const englishTestimonialsData = [
     {
-      personImage: "/thomastheil.png",
+      personImage: "/tt.jpg",
       name: "Thomas Theil",
       position: "Owner - Cinnamon & coffee",
       companyImage: "/meta.png",
@@ -49,7 +49,7 @@ export default function Testimonials() {
         "We bumped into Benjamin in our store on Strøget, where Benjamin clarified the growth opportunities through organic marketing/ branding with engaging videos. We were in the process of setting up our online webshop, and therefore Benjamin and his team fell from the sky. In less than 2 weeks we went from a brand new TikTok with 0 followers to more than 10k.",
     },
     {
-      personImage: "/emilstrande.png",
+      personImage: "/ls.jpg",
       name: "Emil Strande",
       position: "Founder - Letzsneak",
       companyImage: "/meta.png",
