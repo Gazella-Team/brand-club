@@ -4,6 +4,8 @@ import { useRouter } from "next/router";
 import { ArrowDown, ArrowRight } from "lucide-react";
 import YoutubeVideo from "./demovid";
 import YoutubeVideoEng from "./demovideng";
+import WistiaVideoEmbed from "./wistia-embed";
+import WistiaVideo from "./wistia-embed";
 
 export default function Hero() {
   const router = useRouter();
@@ -34,9 +36,9 @@ export default function Hero() {
                     <ArrowDown />
                   </span>
                 </h1>
-                <a href="https://ocmamasterclass.com/en">
-                  <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
-                </a>
+                <div>
+                  <WistiaVideo />
+                </div>
               </div>
             ) : (
               <div className="flex flex-col items-center">
@@ -46,9 +48,7 @@ export default function Hero() {
                     <ArrowDown />
                   </span>
                 </h1>
-                <a href={"https://ocmamasterclass.com/"}>
-                  <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
-                </a>
+                <WistiaVideo />
               </div>
             )}
           </Reveal>
@@ -103,9 +103,7 @@ export default function Hero() {
                     <ArrowDown />
                   </span>
                 </h1>
-                <a href="https://ocmamasterclass.com/en">
-                  <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
-                </a>
+                <WistiaVideo />
               </div>
             ) : (
               <div className="flex flex-col items-center">
@@ -115,9 +113,7 @@ export default function Hero() {
                     <ArrowDown />
                   </span>
                 </h1>
-                <a href={"https://ocmamasterclass.com/"}>
-                  <img className="rounded-main text-glow" alt="hero" src="/thumbnail.jpg"></img>
-                </a>
+                <WistiaVideo />
               </div>
             )}
           </Reveal>
