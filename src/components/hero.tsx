@@ -6,6 +6,7 @@ import YoutubeVideo from "./demovid";
 import YoutubeVideoEng from "./demovideng";
 import WistiaVideoEmbed from "./wistia-embed";
 import WistiaVideo from "./wistia-embed";
+import EnglishWistiaVideo from "./wistia-english";
 
 export default function Hero() {
   const router = useRouter();
@@ -26,7 +27,7 @@ export default function Hero() {
               </span>
             </h1>
           </Reveal>
-          <div className="items-center justify-center flex mb-10 sm:hidden">
+          <div className="items-center justify-center flex mb-10 sm:hidden sm:mb-[0px]">
           <Reveal>
             {currentPath === "/en" ? (
               <div className="flex flex-col items-center">
@@ -37,7 +38,7 @@ export default function Hero() {
                   </span>
                 </h1>
                 <div>
-                  <WistiaVideo />
+                  <EnglishWistiaVideo />
                 </div>
               </div>
             ) : (
