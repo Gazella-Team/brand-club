@@ -52,7 +52,7 @@ const englishQuestions = [
   {
     question: "What is your warranty?",
     answer:
-      "We guarantee you an income of $4,000 / month after 180 days, otherwise we will return every penny you have invested.",
+      "We give you a paying client after 180 days, otherwise we will return every penny you have invested.",
   },
   {
     question: "Can I do this while going to school/working?",
@@ -73,12 +73,12 @@ const englishQuestions = [
     question:
       "What happens after I have been accepted to purchase the OCMA Masterclass?",
     answer:
-      "As you may have noticed, there is no buy now button on the website, and that is not because of the guarantee we have. We need to talk to everyone before you get access. We want to know who we are betting our own money on. After you get permission you will be added to our own software with all modules. Our teaching material is both in text and video. In addition, you join a group for exclusive members of the OCMA Masterclass, to save with each other and us.",
+      "As you may have noticed, there is no buy now button on the website, and that is not because of the guarantee we have. We need to talk to everyone before you get access. We want to know who we are betting our own time on. After you get permission you will be added to our own software with all modules. Our teaching material is both in text and video. In addition, you join a group for exclusive members of the OCMA Masterclass, to save with each other and us.",
   },
   {
     question: "How much can I expect to earn?",
     answer:
-      "There is no maximum on how much you can earn; these are the benefits of this business model. As a rule, your agency and network grow over time, which allows for greater growth while reducing time consumption. You therefore have the opportunity to decide, depending on your goals, where you want to go. However, we have seen several of the first students close deals of NOK 8-30,000 after just one week and then quit their jobs. But remember these are examples and not necessarily what applies to you",
+      "There is no maximum on how much you can earn; these are the benefits of this business model. As a rule, your agency and network grow over time, which allows for greater growth while reducing time consumption. You therefore have the opportunity to decide, depending on your goals, where you want to go. However, we have seen several of the first students close deals of DKK 8-30,000 after just one week and then quit their jobs. But remember these are examples and not necessarily what applies to you",
   },
   {
     question: "Can't you just learn this on youtube?",
