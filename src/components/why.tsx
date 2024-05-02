@@ -5,8 +5,8 @@ import { useRouter } from "next/router";
 
 const whyData = [
   [
-    "Mange års erfaring indenfor organisk markedsføring. Skaleret egne forretninger/webshops med denne forretningsmodel og hjulpet nogle af de hurtigst voksende profiler på sociale medier.  ",
-    "Vi har selv vækstet forretninger fra 0-1.000.000 indenfor 1 måned med vores framework som DU får adgang til, for at have mulighed for at kunne tilbyde samme resultater som vores agency.",
+    "Mange års erfaring indenfor organisk markedsføring. Vi har skaleret egne forretninger med dette framework og hjulpet nogle af de hurtigst voksende profiler på sociale medier med netop det samme.",
+    "Vi har selv opskaleret forretninger fra 0 til 1.000.000 inden for 1 måned med vores framework, som DU får adgang til, så du har mulighed for at opnå samme resultater som vores bureau Vatemedia.",
     "Får hjælp til at holde kunder i længere perioder, så du ikke hele tiden skal jagte nye kunder, men kan have nogle længerevarende samarbejder.",
     "Viden fra nogle af de absolut største inden for content creation marketing.",
     "Du lærer hvordan du uden tidligere erfaring, kan opbygge en forretning du kan leve af. ",
@@ -14,7 +14,7 @@ const whyData = [
   [
     "Du lærer fra nogen, som ingen resultater har, men blot har lavet et online mentorforløb og ikke selv lever af denne forretningsmodel. ",
     "Du bliver ikke oplært i hvordan du opbygger en forretning du kan leve af. ",
-    "Ingen resultater men bare en som vil tjene penge på at sælge kurser. ",
+    "Ingen resultater, men blot vil tjene penge på at sælge kurser",
     "Har ikke længere succes med denne forretningsmodel, men måske haft for mange år siden. ",
     "Du bliver oplært som gruppe og ikke individuelt",
     "Du ved ikke på forhånd, hvad der er inkluderet i forløbet",
@@ -23,8 +23,8 @@ const whyData = [
 ];
 const englishWhyData = [
   [
-    "Many years of experience in organic marketing. Scaled own businesses/web shops with this business model and helped some of the fastest growing social media profiles. ",
-    "Grown businesses from 0-1,000,000 within 1 month with our framework, which YOU get access to in order to be able to offer the same results as our agency. ",
+    "Many years of experience within organic marketing. We have scaled our own businesses with this framework and helped some of the fastest growing social media profiles with just the same.",
+    "We ourselves have scaled up businesses from 0 to 1,000,000 within 1 month with our framework, which YOU get access to, so you have the opportunity to achieve the same results as our agency Vatemedia.",
     "Get help to retain customers for longer periods of time, so you don't have to constantly chase new customers, but can have some long-term collaborations. ",
     "Knowledge from some of the biggest names in content creation marketing. ",
     "You'll learn how to build a business you can make a living from with no previous experience.",
@@ -32,7 +32,7 @@ const englishWhyData = [
   [
     "You're learning from someone who has no results, but has only done an online mentoring program and doesn't make a living from this business model. ",
     "You're not being taught how to build a business you can make a living from. ",
-    "No results, just someone who wants to make money selling courses.",
+    "No results, but just want to make money selling courses.",
     "No longer successful with this business model, but may have been many years ago.",
     "You are trained as a group and not individually",
     "You do not know in advance what is included in the course",

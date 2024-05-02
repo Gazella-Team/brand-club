@@ -12,7 +12,7 @@ export default function StudentTests() {
       position: "Student - OCMA Masterclass",
       companyImage: "/meta.png",
       words:
-        "Fantastisk kursus og fantastiske fyre! Jeg lukkede min første kunde inden for en uge. Er kommet op på et beløb som jeg selv synes virker helt surrealistisk. Efter 2 måneder kan jeg stolt sige at jeg er kommet op på 50.000kr/måneden",
+        "Fantastisk kursus og fantastiske ejere bag. Jeg lukkede min første kunde inden for en uge. Jeg havde tidligere prøvet mig frem med diverse forretningsmodeller, men gav hurtigt op på grund af stor konkurrence. Da jeg begyndte med organisk markedsføring, kunne jeg straks mærke, at jeg tilbød en service, som markedet manglede. Dette gjorde det lettere, eller rettere sagt, mere simpelt for mig at lukke kunder. Nu er jeg, takket være teamet og al vejledningen, nået op på et beløb, som jeg selv synes virker helt surrealistisk. Efter 2 måneder kan jeg stolt sige, at jeg tjener 50.000 kr om måneden.",
     },
     {
       personImage: "/ra.jpg",
@@ -30,7 +30,7 @@ export default function StudentTests() {
       position: "Student - OCMA Masterclass",
       companyImage: "/meta.png",
       words:
-        "Great course and great guys! I closed my first client within a week. I've reached an amount that seems surreal to me. After 2 months I can proudly say that I have reached 50.000kr/month",
+        "Great course and great owners behind it. I closed my first client within a week. I had previously tried various different business models, but quickly gave up due to great competition. When I started organic marketing, I could immediately tell that I was offering a service that the market was missing. This made it easier, or rather, simpler for me to close clients. Now, thanks to the team and all the guidance, I have reached an amount that I think seems completely surreal. After 2 months I can proudly say that I earn DKK 50,000 per month.",
     },
     {
       personImage: "/ra.jpg",

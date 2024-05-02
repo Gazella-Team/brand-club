@@ -50,13 +50,13 @@ import {
       heading: "Support samme dag",
       icon: <HeartHandshakeIcon />,
       description:
-        "Support samme dag - Vi fokuserer på den individets  succeshistorie, derfor stræber vi efter at svare med det samme når du har brug for hjælp 🙂",
+        "Support samme dag - Vi fokuserer på individets succeshistorie, derfor stræber vi efter at svare med det samme når du har brug for hjælp.",
     },
     {
       heading: "Egnet til nybegyndere og letøvede ",
       icon: <Globe />,
       description:
-        "Vi tager dig gennem rejsen  fra A-z så du kan opbygge dit eget 60k/ måned OCMA. Denne masterclass er for alle; Dem der først lige starter, erfarne agency ejere og endda store virksomheder som vil skalere deres brand.",
+        "Vi tager dig gennem rejsen  fra A-z så du kan opbygge dit eget 50k/ måned OCMA. Denne masterclass er for alle; Dem der først lige starter, erfarne agency ejere og endda store virksomheder som vil skalere deres brand.",
     },
     {
       heading: "Vores værktøjer og skabeloner ",
@@ -102,7 +102,7 @@ import {
       heading: "Same day support",
       icon: <HeartHandshakeIcon />,
       description:
-        "We focus on the simplest success story, therefore we strive to respond immediately when you need help",
+        "Same day support - We focus on the individual's success story, therefore we strive to respond immediately when you need help.",
     },
     {
       heading: "Suitable for beginners and intermediates",

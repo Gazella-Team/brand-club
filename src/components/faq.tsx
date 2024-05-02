@@ -14,7 +14,7 @@ const questions = [
   {
     question: "Hvad er jeres garanti?",
     answer:
-      "Vi garanterer dig en indkomst på 20.000,- / måned efter 180 dage, ellers sender vi hver eneste krone tilbage + 12.000 kroner fra vores egen pung",
+      "Vi garanterer dig en indkomst på 30.000,- / måned efter 180 dage, ellers sender vi hver eneste krone tilbage som du har investeret.",
   },
   {
     question: "Kan jeg gøre dette, mens jeg går i skole/arbejder?",
@@ -29,30 +29,30 @@ const questions = [
   {
     question: "Hvad kommer jeg til at lære?",
     answer:
-      "Du vil lære præcis, hvordan man bygger en forretning. Alt sammen på samme måde som vi gjorde, for du får alle vores frameworks og en klar forretningsplan der forklarer dig præcis hvad du skal gøre hver dag. Dette er en helt ny forretningsmodel, som alle virksomheder har brug for, så det er et perfekt tidspunkt at komme i gang. Vi driver selv et agency ud fra denne forretningsmodel, OCMA. Du vil altid være et skridt foran andre, fordi du netop har vores frameworks, som opdateres løbende. Så hvad venter du på? Ansøg i dag og start din rejse.",
+      "Du vil lære præcis, hvordan man bygger en forretning. Alt sammen på samme måde som vi gjorde, for du får alle vores frameworks og en klar forretningsplan der forklarer dig præcis hvad du skal gøre hver dag. Organisk markedsføring er en helt ny service, som alle virksomheder har brug for, så  lige nu er et perfekt tidspunkt at komme i gang. Vi driver selv et agency ud fra denne forretningsmodel, OCMA. Du vil altid være et skridt foran andre, fordi du netop har vores frameworks, som opdateres løbende. Så hvad venter du på? Ansøg i dag og start din rejse.",
   },
   {
     question:
       "Hvad sker der, efter jeg er blevet accepteret til at købe OCMA Masterclass?",
     answer:
-      "Som du måske har set på hjemmesiden er der ingen “køb nu” knap, og det er der ikke grundet den garanti vi har. Vi skal tale med alle får nogen får adgang. Vi vil gerne vide hvem vi better vores egne penge på. Du bliver tilføjet til vores egen software med alle moduler. Vores undervisningsmateriale er både i tekst og video. Derudover kommer du med i en gruppe for udelukkende medlemmer af OCMA Masterclass,, for at spare med hinanden og os.",
+      "Som du måske har lagt mærke til er der ingen “køb nu” knap  på hjemmesiden, og det er der ikke grundet den garanti vi har. Vi skal tale med alle, inden du får adgang. Vi vil gerne vide hvem vi better vores egne penge på. Efter du har fået tilladelse vil du blive tilføjet til vores egen software med alle moduler. Vores undervisningsmateriale er både i tekst og video. Derudover kommer du med i en gruppe for eksklusive medlemmer af OCMA Masterclass, for at spare med hinanden og os.",
   },
   {
     question: "Hvor meget kan jeg forvente at tjene?",
     answer:
-      "Der er ingen maximum på, hvor meget du kan tjene; det er fordelene ved denne forretningsmodel. Som regel vokser dit agency og netværk med tiden, hvilket giver mulighed for større vækst, samtidig med at tidsforbruget mindskes. Du har derfor selv muligheden for at bestemme, afhængigt af dine målsætninger, hvor du ønsker at bevæge dig hen. Vi har dog set flere af de første elever lukke aftaler på 8-30.000,- efter blot en uge og derefter opsige deres job, da de nu * Men husk det er eksempler og ikke nødvendigvis hvad der er gældende for dig.",
+      "Der er ingen maximum på, hvor meget du kan tjene; det er fordelene ved denne forretningsmodel. Som regel vokser dit agency og netværk med tiden, hvilket giver mulighed for større vækst, samtidig med at tidsforbruget mindskes. Du har derfor selv muligheden for at bestemme, afhængigt af dine målsætninger, hvor du ønsker at bevæge dig hen. Vi har dog set flere af de første elever lukke aftaler på 8-30.000,- efter blot en uge og derefter opsige deres job. Men husk det er eksempler og ikke nødvendigvis hvad der er gældende for dig.",
   },
   {
     question: "Kan man ikke bare lære dette på youtube?",
     answer:
-      "Ofte vil du kunne finde den information du får i kurser på youtube eller lign. men sådan er det ikke her, eftersom vores forretningsmodel er helt ny. Og for at bevise dette vil jeg gerne tage dig med på en test, gå ind på youtube > søg på “OCMA” Det ville overraske mig hvis du fandt noget! og det ville det netop eftersom vi er de første som oplærer dig netop dette. Det skal dog nævnes at der er andre forretningsmodeller der læner sig op ad denne. ",
+      "Ofte vil du kunne finde den information, du får i kurser på YouTube eller lignende, men sådan er det ikke her, eftersom vores forretningsmodel er helt ny. For at bevise dette, vil jeg gerne tage dig med på en test. Gå ind på YouTube og søg efter OCMA. Det ville overraske mig, hvis du fandt noget, og det ville det netop, eftersom vi er de første, der lærer dig netop dette. Det skal dog nævnes, at der er andre forretningsmodeller, der læner sig op ad denne.",
   },
 ];
 const englishQuestions = [
   {
     question: "What is your warranty?",
     answer:
-      "We guarantee you an income of NOK 20,000 / month after 180 days, otherwise we will return every penny + NOK 12,000 from our own wallet",
+      "We guarantee you an income of $4,000 / month after 180 days, otherwise we will return every penny you have invested.",
   },
   {
     question: "Can I do this while going to school/working?",
@@ -67,23 +67,23 @@ const englishQuestions = [
   {
     question: "What will I learn?",
     answer:
-      "You will learn exactly how to build a business. All in the same way as we did, because you get all our frameworks and a clear business plan that explains exactly what you have to do every day. This is a brand new business model that all businesses need, so it's a perfect time to get started. We ourselves run an agency based on this business model, OCMA. You will always be one step ahead of others, because you have our frameworks, which are updated continuously. So what are you waiting for? Apply today and start your journey.",
+      "You will learn exactly how to build a business. All in the same way as we did, because you get all our frameworks and a clear business plan that explains exactly what you have to do every day. Organic marketing is a brand new service that every business needs, so right now is a perfect time to get started. We ourselves run an agency based on this business model, OCMA. You will always be one step ahead of others because you have our frameworks, which are updated continuously. So what are you waiting for? Apply today and start your journey.",
   },
   {
     question:
       "What happens after I have been accepted to purchase the OCMA Masterclass?",
     answer:
-      "As you may have seen on the website, there is no buy now button, and that is not because of the guarantee we have. We have to talk to everyone, someone gets access. We want to know who we're betting our own money on. You will be added to our own software with all modules. Our teaching material is both in text and video. In addition, you join a group for members only of the OCMA Masterclass, to save with each other and us.",
+      "As you may have noticed, there is no buy now button on the website, and that is not because of the guarantee we have. We need to talk to everyone before you get access. We want to know who we are betting our own money on. After you get permission you will be added to our own software with all modules. Our teaching material is both in text and video. In addition, you join a group for exclusive members of the OCMA Masterclass, to save with each other and us.",
   },
   {
     question: "How much can I expect to earn?",
     answer:
-      "There is no maximum on how much you can earn; these are the benefits of this business model. As a rule, your agency and network grow over time, which allows for greater growth while reducing time consumption. You therefore have the opportunity to decide, depending on your goals, where you want to go. However, we have seen several of the first students close deals of NOK 8-30,000 after just one week and then quit their jobs, as they now * But remember these are examples and not necessarily what applies to you",
+      "There is no maximum on how much you can earn; these are the benefits of this business model. As a rule, your agency and network grow over time, which allows for greater growth while reducing time consumption. You therefore have the opportunity to decide, depending on your goals, where you want to go. However, we have seen several of the first students close deals of NOK 8-30,000 after just one week and then quit their jobs. But remember these are examples and not necessarily what applies to you",
   },
   {
     question: "Can't you just learn this on youtube?",
     answer:
-      "You will often be able to find the information you get in courses on YouTube or similar. but that is not the case here, as our business model is completely new. And to prove this I'd like to take you on a test, go to youtube > search “OCMA” I'd be surprised if you found anything! and it would precisely because we are the first to teach you exactly this. However, it should be mentioned that there are other business models that lean on this one.",
+      "Often you will be able to find the information you get in courses on YouTube or the like, but this is not the case here, since our business model is completely new. To prove this, I'd like to take you on a test. Go to YouTube and search for OCMA. It would surprise me if you found anything, and it would, since we are the first to teach you this very thing. However, it should be mentioned that there are other business models that lean on this one.",
   },
 ];
 

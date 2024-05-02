@@ -15,6 +15,7 @@ export default function Hero() {
     <section className="py-[220px] pb-[40px] bg-transparent">
       <div className="w-sectionMain max-w-main mx-auto grid grid-cols-2 gap-[100px] heroOne:grid-cols-1">
         <div className="py-[20px] heroOne:py-0">
+          <img className="w-24 mb-6" src="/stars-5.svg"></img>
           <Reveal>
             <h1 className="text-heroHeading text-white font-[700] mb-[20px] heroTwo:text-[30px]">
               {currentPath === "/en"
@@ -32,7 +33,7 @@ export default function Hero() {
             {currentPath === "/en" ? (
               <div className="flex flex-col items-center">
                 <h1 className="text-white text-[20px] font-[700] text-center mb-[30px] flex items-center gap-[10px]">
-                  Watch our free demo video
+                  See here for access to the free mini course
                   <span>
                     <ArrowDown />
                   </span>
@@ -44,7 +45,7 @@ export default function Hero() {
             ) : (
               <div className="flex flex-col items-center">
                 <h1 className="text-white text-[20px] font-[700] text-center mb-[30px] flex items-center gap-[10px]">
-                  Se vores gratis læringsvideo{" "}
+                Se her for adgang til gratis mini kursus {" "}
                   <span>
                     <ArrowDown />
                   </span>
@@ -91,6 +92,16 @@ export default function Hero() {
                 </Link>
               </div>
             </Reveal>
+            <Reveal>
+              <div className="flex items-center mt-10">
+                <img className="w-14 rounded-full" src="/tooltip/1.jpg"></img>
+                <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/2.jpg"></img>
+                <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/3.jpg"></img>
+                <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/4.jpg"></img>
+                <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/5.jpg"></img>
+                <p className="ml-4 text-xl">{currentPath === "/en" ? "+60 active students":"+60 aktive elever"}</p>
+              </div>
+            </Reveal>
           </div>
         </div>
 
@@ -99,7 +110,7 @@ export default function Hero() {
             {currentPath === "/en" ? (
               <div className="flex flex-col items-center">
                 <h1 className="text-white text-[20px] font-[700] text-center mb-[30px] flex items-center gap-[10px]">
-                  Watch our free demo video
+                See here for access to the free mini course
                   <span>
                     <ArrowDown />
                   </span>
@@ -109,7 +120,7 @@ export default function Hero() {
             ) : (
               <div className="flex flex-col items-center">
                 <h1 className="text-white text-[20px] font-[700] text-center mb-[30px] flex items-center gap-[10px]">
-                  Se vores gratis læringsvideo{" "}
+                Se her for adgang til gratis mini kursus
                   <span>
                     <ArrowDown />
                   </span>
