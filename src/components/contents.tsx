@@ -120,7 +120,7 @@ import {
       heading: "How to start your OCMA",
       icon: <CircleDollarSign />,
       description:
-        "We take you from a-z on how you can take your new business to 50k/month. We have developed an entire chapter that elaborates on this concretely.",
+        "We give you our tips and tricks on how to start your own OCMA",
     },
   ];
   
