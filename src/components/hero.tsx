@@ -99,7 +99,7 @@ export default function Hero() {
                 <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/3.jpg"></img>
                 <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/4.jpg"></img>
                 <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/5.jpg"></img>
-                <p className="ml-4 text-xl">{currentPath === "/en" ? "+60 active students":"+60 aktive elever"}</p>
+                <p className="ml-4 text-xl">{currentPath === "/en" ? "+70 active students":"+70 aktive elever"}</p>
               </div>
             </Reveal>
           </div>
