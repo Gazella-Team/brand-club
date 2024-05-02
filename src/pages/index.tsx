@@ -39,7 +39,6 @@ export default function Home() {
         <ClassContent />
       </Element>
       <Why />
-      <StudentTests />
       <FAQ />
       <Footer />
     </main>

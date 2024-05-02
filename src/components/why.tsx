@@ -9,7 +9,7 @@ const whyData = [
     "Vi har selv opskaleret forretninger fra 0 til 1.000.000 inden for 1 måned med vores framework, som DU får adgang til, så du har mulighed for at opnå samme resultater som vores bureau Vatemedia.",
     "Får hjælp til at holde kunder i længere perioder, så du ikke hele tiden skal jagte nye kunder, men kan have nogle længerevarende samarbejder.",
     "Viden fra nogle af de absolut største inden for content creation marketing.",
-    "Du lærer hvordan du uden tidligere erfaring, kan opbygge en forretning du kan leve af. ",
+    "Du lærer hvordan du uden tidligere erfaring kan opbygge dit OCMA",
   ],
   [
     "Du lærer fra nogen, som ingen resultater har, men blot har lavet et online mentorforløb og ikke selv lever af denne forretningsmodel. ",
