@@ -33,7 +33,7 @@ import {
         "Vi giver dig alle vores dybdegående værktøjer, resultater, systemer og skabeloner, vi selv bruger til vores eget Agency. ",
     },
     {
-      heading: "Hvordan du skalerer dit OCMA til 50k/måned",
+      heading: "Hvordan du starter dit OCMA",
       icon: <ShieldCheck />,
       description:
         "Vi tager dig fra a-z på hvordan du kan tage din nye forretning til 50k/ måned. Vi har udfoldet et helt kapitel der uddyber dette konkret",
@@ -56,7 +56,7 @@ import {
       heading: "Egnet til nybegyndere og letøvede ",
       icon: <Globe />,
       description:
-        "Vi tager dig gennem rejsen  fra A-z så du kan opbygge dit eget 50k/ måned OCMA. Denne masterclass er for alle; Dem der først lige starter, erfarne agency ejere og endda store virksomheder som vil skalere deres brand.",
+        "Vi tager dig gennem rejsen  fra A-z så du kan opbygge dit eget OCMA. Denne masterclass er for alle; Dem der først lige starter, erfarne agency ejere og endda store virksomheder som vil skalere deres brand.",
     },
     {
       heading: "Vores værktøjer og skabeloner ",
@@ -117,7 +117,7 @@ import {
         "We provide you with all our in-depth tools, results, systems and templates that we ourselves use for our own Agency.",
     },
     {
-      heading: "How to scale your OCMA to 50k/month",
+      heading: "How to start your OCMA",
       icon: <CircleDollarSign />,
       description:
         "We take you from a-z on how you can take your new business to 50k/month. We have developed an entire chapter that elaborates on this concretely.",
