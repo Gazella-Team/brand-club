@@ -15,7 +15,9 @@ export default function Hero() {
     <section className="py-[220px] pb-[40px] bg-transparent">
       <div className="w-sectionMain max-w-main mx-auto grid grid-cols-2 gap-[100px] heroOne:grid-cols-1">
         <div className="py-[20px] heroOne:py-0">
-          <img className="w-24 mb-6" src="/stars-5.svg"></img>
+          <Reveal>
+            <img className="w-24 mb-6" src="/stars-5.svg"></img>
+          </Reveal>
           <Reveal>
             <h1 className="text-heroHeading text-white font-[700] mb-[20px] heroTwo:text-[30px]">
               {currentPath === "/en"
