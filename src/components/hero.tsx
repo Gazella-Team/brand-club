@@ -19,8 +19,8 @@ export default function Hero() {
           <Reveal>
             <h1 className="text-heroHeading text-white font-[700] mb-[20px] heroTwo:text-[30px]">
               {currentPath === "/en"
-                ? "Perfected masterclass that guides you step by step in building a 6-figure"
-                : "Veludarbejdet masterclass, der guider dig trin for trin i opbygningen af et 6-cifret"}{" "}
+                ? "Perfected masterclass that guides you step by step in building an"
+                : "Veludarbejdet masterclass, der guider dig trin for trin i opbygningen af et"}{" "}
               <span className="text-blue-500">
                 {currentPath === "/en"
                   ? "OCMA"
