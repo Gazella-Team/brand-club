@@ -70,14 +70,6 @@ Vi indsamler og behandler typisk følgende typer af oplysninger: Et unikt ID og 
             <p className="text-[18px]">
             Din tilmelding i hvilken som helst sammenhæng under vores domæne gælder disse vilkår. Du accepterer at OCMA masterclass får lov til at sende markedsføringsrelaterede: mails, opkald/sms(er) til dig, hvis de føler der er relevans for det. Derudover accepterer du at du er over 18 år når du tilmelder dig under vores domæne.            </p>
           </div>
-          <div className="mb-[50px]">
-            <h1 className="text-[30px] font-[700] mb-[20px]">
-            Live event: 
-            </h1>
-            <p className="text-[18px]">
-            Jeg skriver mig op og godkender at vinderen til giveawayen først findes når der som min. har været 500 signups. Jeg tillader også at virksomheden kan ringe og kontakte mig over mail hvis det er nødvendigt.
-            </p>
-          </div>
         </div>
       </section>
       <Footer />
