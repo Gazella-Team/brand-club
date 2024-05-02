@@ -29,7 +29,7 @@ const questions = [
   {
     question: "Hvad kommer jeg til at lære?",
     answer:
-      "Du vil lære præcis, hvordan man bygger en forretning. Alt sammen på samme måde som vi gjorde, for du får alle vores frameworks og en klar forretningsplan der forklarer dig præcis hvad du skal gøre hver dag. Organisk markedsføring er en helt ny service, som alle virksomheder har brug for, så  lige nu er et perfekt tidspunkt at komme i gang. Vi driver selv et agency ud fra denne forretningsmodel, OCMA. Du vil altid være et skridt foran andre, fordi du netop har vores frameworks, som opdateres løbende. Så hvad venter du på? Ansøg i dag og start din rejse.",
+      "Du vil lære hvordan man starter et OCMA, hvor vi gennemgår de tips & tricks vi selv har erfaret.",
   },
   {
     question:
@@ -67,7 +67,7 @@ const englishQuestions = [
   {
     question: "What will I learn?",
     answer:
-      "You will learn exactly how to build a business. All in the same way as we did, because you get all our frameworks and a clear business plan that explains exactly what you have to do every day. Organic marketing is a brand new service that every business needs, so right now is a perfect time to get started. We ourselves run an agency based on this business model, OCMA. You will always be one step ahead of others because you have our frameworks, which are updated continuously. So what are you waiting for? Apply today and start your journey.",
+      "You will learn how to start an OCMA, where we review the tips & tricks we have experienced ourselves.",
   },
   {
     question:
