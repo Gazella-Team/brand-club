@@ -9,8 +9,8 @@ export default function Footer() {
         <div className="w-[90%] mx-auto max-w-[800px] mb-[60px] flex flex-col items-center">
           <h1 className="text-center text-white text-[40px] font-[700] mb-[40px]">
             {currentPath === "/en"
-              ? "Step by step on how you can achieve a successful OCMA"
-              : "Step by step på hvordan du kan opnå et successfuldt OCMA"}
+              ? "Step by step on how you can achieve an OCMA"
+              : "Step by step på hvordan du kan opnå et OCMA"}
           </h1>
           <Link
             className="bg-blue-500 text-white p-[30px] py-[10px] rounded-full text-glow"
@@ -20,7 +20,7 @@ export default function Footer() {
                 : "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
             }
           >
-            {currentPath === "/en" ? "Start today" : "Start i dag"}
+            {currentPath === "/en" ? "Apply today" : "Ansøg i dag"}
           </Link>
         </div>
 
