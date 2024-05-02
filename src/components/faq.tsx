@@ -14,7 +14,7 @@ const questions = [
   {
     question: "Hvad er jeres garanti?",
     answer:
-      "Vi garanterer dig en indkomst på 30.000,- / måned efter 180 dage, ellers sender vi hver eneste krone tilbage som du har investeret.",
+      "Vi garanterer dig en betalende kunde efter 180 dage, ellers sender vi hver eneste krone tilbage som du har investeret.",
   },
   {
     question: "Kan jeg gøre dette, mens jeg går i skole/arbejder?",
