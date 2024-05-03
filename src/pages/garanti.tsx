@@ -23,7 +23,7 @@ export default function Garanti() {
         <div className="w-[90%] mx-auto max-w-[800px]">
           <h1 className="text-[50px] font-[700] mb-[30px]">Garanti</h1>
           <p className="mb-[40px] text-[18px]">
-            Vi hos organic masterclass ligger fokus på at adskille os og være
+            Vi hos OCMA Masterclass ligger fokus på at adskille os og være
             transparente, derfor har vi valgt at give dig alle dine penge
             tilbage hvis du ikke lukker din første betalende kunde efter 180
             dage i vores masterclass<br></br>
