@@ -117,7 +117,7 @@ export default function Hero() {
                     <ArrowDown />
                   </span>
                 </h1>
-                <WistiaVideo />
+                <EnglishWistiaVideo />
               </div>
             ) : (
               <div className="flex flex-col items-center">
