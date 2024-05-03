@@ -36,7 +36,7 @@ import {
       heading: "Hvordan du starter dit OCMA",
       icon: <ShieldCheck />,
       description:
-        "Vi tager dig fra a-z på hvordan du kan tage din nye forretning til 50k/ måned. Vi har udfoldet et helt kapitel der uddyber dette konkret",
+        "Vi tager dig fra a-z på hvordan du kan bygge dit OCMA. Vi har udfoldet et helt kapitel der uddyber dette konkret",
     },
     {
       heading: "Sparringsgruppe",
