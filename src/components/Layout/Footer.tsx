@@ -58,9 +58,6 @@ export default function Footer() {
                 ? "Trade conditions"
                 : "Handelsbetingelser"}
             </Link>
-            <Link href={currentPath === "/en" ? "/en/guarantee" : "/garanti"}>
-              {currentPath === "/en" ? "Guarantee" : "Garanti"}
-            </Link>
           </div>
         </div>
         <div className="flex items-center justify-between">

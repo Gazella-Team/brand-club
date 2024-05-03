@@ -12,11 +12,6 @@ import SectionStarter from "./sectionstarter";
 
 const questions = [
   {
-    question: "Hvad er jeres garanti?",
-    answer:
-      "Vi garanterer dig en betalende kunde efter 180 dage, ellers sender vi hver eneste krone tilbage som du har investeret.",
-  },
-  {
     question: "Kan jeg gøre dette, mens jeg går i skole/arbejder?",
     answer:
       "Ja, selvfølgelig. Det er ikke noget problem at gå i skole, mens du driver denne virksomhed. Da vi startede med forretning, gik vi begge i gymnasiet, men nu er vi fuldtidsbeskæftigede med vores virksomheder.",
@@ -49,11 +44,6 @@ const questions = [
   },
 ];
 const englishQuestions = [
-  {
-    question: "What is your warranty?",
-    answer:
-      "We give you a paying client after 180 days, otherwise we will return every penny you have invested.",
-  },
   {
     question: "Can I do this while going to school/working?",
     answer:
