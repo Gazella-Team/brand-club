@@ -18,7 +18,6 @@ const whyData = [
     "Har ikke længere succes med denne forretningsmodel, men måske haft for mange år siden. ",
     "Du bliver oplært som gruppe og ikke individuelt",
     "Du ved ikke på forhånd, hvad der er inkluderet i forløbet",
-    "Ingen garanti eller refund-politik",
   ],
 ];
 const englishWhyData = [
@@ -36,7 +35,6 @@ const englishWhyData = [
     "No longer successful with this business model, but may have been many years ago.",
     "You are trained as a group and not individually",
     "You do not know in advance what is included in the course",
-    "No guarantee or refund policy",
   ],
 ];
 
