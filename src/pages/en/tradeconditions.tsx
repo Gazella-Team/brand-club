@@ -76,20 +76,6 @@ The customer is hereby authorized to do the following:
           </div>
           <div className="mb-[50px]">
             <h1 className="text-[30px] font-[700] mb-[20px]">
-            Guarantee on purchase of OCMA masterclass
-            </h1>
-            <p className="text-[18px]">
-            You can get all your money refunded after 180 days if you haven't got a paying customer in your agency. To redeem the guarantee, the following requirements must be met:              <br></br> - Do min. 20 outreaches per day<br></br>
-              <br></br> - Attend all weekly calls<br></br>
-              <br></br> - See the entire OCMA Masterclass
-              <br></br> - make min. 20 outreaches per day
-              <br></br> - Be a member of the masterclass for 180 days 
-              <br></br>This guarantee is offered as we are very proud of our product, we all know it will be successful if they put in the work. We will ensure the success of each student. Your success is our success. If you have used the guarantee once, you are still welcome to participate in the process at a later time. However, the new price will apply if it has increased in the meantime. When you choose to participate in the course again after using the guarantee, any kind of extra guarantee is waived when purchasing the OCMA masterclass. If you wish to make use of your guarantee, please contact us in writing.
-
-            </p>
-          </div>
-          <div className="mb-[50px]">
-            <h1 className="text-[30px] font-[700] mb-[20px]">
               Income disclaimer
             </h1>
             <p className="text-[18px]">

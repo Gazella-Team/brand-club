@@ -85,19 +85,6 @@ export default function Handelsbetingelser() {
           </div>
           <div className="mb-[50px]">
             <h1 className="text-[30px] font-[700] mb-[20px]">
-            Garanti ved køb af OCMA masterclass
-            </h1>
-            <p className="text-[18px]">
-            Du kan få alle dine penge refunderet efter 180 dage såfremt du ikke har fået en betalende kunde i dit bureau. For at indløse garantien skal følgende krav opfyldes:              <br></br> - Lave min. 20 outreaches om dagen<br></br>
-              <br></br> - Deltage til alle ugentlige opkald <br></br>
-              <br></br> - Set hele OCMA masterclass<br></br>
-              <br></br> - Være medlem i min. 180 dage af OCMA masterclass
-              <br></br>
-              <br></br> 
-              Denne garanti tilbydes, da vi er meget stolte af vores produkt, vi ved alle nok skal få succes med det, hvis de ligger arbejdet i det. Vi vil sikre hver elevs succes. Din succes er vores succes. Hvis du har gjort brug af garantien én gang, er du stadig velkommen til at deltage i forløbet på et senere tidspunkt. Dog vil den nye pris gælde, hvis den er steget i mellemtiden. Når du vælger at deltage i forløbet igen efter at have benyttet garantien, fraviges enhver form for ekstra garanti ved køb af OCMA masterclass. Ønsker du at gøre brug af din garanti, bedes du kontakte os skriftligt.            </p>
-          </div>
-          <div className="mb-[50px]">
-            <h1 className="text-[30px] font-[700] mb-[20px]">
               Indtægtsfraskrivelse
             </h1>
             <p className="text-[18px]">
