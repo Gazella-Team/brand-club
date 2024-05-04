@@ -34,24 +34,12 @@ export default function Hero() {
           <Reveal>
             {currentPath === "/en" ? (
               <div className="flex flex-col items-center">
-                <h1 className="text-white text-[20px] font-[700] text-center mb-[30px] flex items-center gap-[10px]">
-                  See here for access to the free mini course
-                  <span>
-                    <ArrowDown />
-                  </span>
-                </h1>
                 <div>
                   <EnglishWistiaVideo />
                 </div>
               </div>
             ) : (
               <div className="flex flex-col items-center">
-                <h1 className="text-white text-[20px] font-[700] text-center mb-[30px] flex items-center gap-[10px]">
-                Se her for adgang til gratis mini kursus {" "}
-                  <span>
-                    <ArrowDown />
-                  </span>
-                </h1>
                 <WistiaVideo />
               </div>
             )}
@@ -111,22 +99,10 @@ export default function Hero() {
           <Reveal>
             {currentPath === "/en" ? (
               <div className="flex flex-col items-center">
-                <h1 className="text-white text-[20px] font-[700] text-center mb-[30px] flex items-center gap-[10px]">
-                See here for access to the free mini course
-                  <span>
-                    <ArrowDown />
-                  </span>
-                </h1>
                 <EnglishWistiaVideo />
               </div>
             ) : (
               <div className="flex flex-col items-center">
-                <h1 className="text-white text-[20px] font-[700] text-center mb-[30px] flex items-center gap-[10px]">
-                Se her for adgang til gratis mini kursus
-                  <span>
-                    <ArrowDown />
-                  </span>
-                </h1>
                 <WistiaVideo />
               </div>
             )}
