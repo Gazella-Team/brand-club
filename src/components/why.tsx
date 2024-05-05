@@ -6,7 +6,7 @@ import { useRouter } from "next/router";
 const whyData = [
   [
     "Mange års erfaring indenfor organisk markedsføring. Vi har skaleret egne forretninger med dette framework og hjulpet nogle af de hurtigst voksende profiler på sociale medier med netop det samme.",
-    "Vi har selv opskaleret forretninger fra 0 til 1.000.000 inden for 1 måned med vores framework, som DU får adgang til, så du har mulighed for at opnå samme resultater som vores bureau Vatemedia.",
+    "Vi har selv opskaleret forretninger fra 0 til 1.000.000 inden for 1 måned med vores framework, som DU får adgang til, så du har mulighed for at opnå samme resultater som vores bureau.",
     "Får hjælp til at holde kunder i længere perioder, så du ikke hele tiden skal jagte nye kunder, men kan have nogle længerevarende samarbejder.",
     "Viden fra nogle af de absolut største inden for content creation marketing.",
     "Du lærer hvordan du uden tidligere erfaring kan opbygge dit OCMA",
@@ -23,7 +23,7 @@ const whyData = [
 const englishWhyData = [
   [
     "Many years of experience within organic marketing. We have scaled our own businesses with this framework and helped some of the fastest growing social media profiles with just the same.",
-    "We ourselves have scaled up businesses from 0 to 1,000,000 within 1 month with our framework, which YOU get access to, so you have the opportunity to achieve the same results as our agency Vatemedia.",
+    "We ourselves have scaled up businesses from 0 to 1,000,000 within 1 month with our framework, which YOU get access to, so you have the opportunity to achieve the same results as our agency.",
     "Get help to retain customers for longer periods of time, so you don't have to constantly chase new customers, but can have some long-term collaborations. ",
     "Knowledge from some of the biggest names in content creation marketing. ",
     "You'll learn how to build a business you can make a living from with no previous experience.",

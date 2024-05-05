@@ -25,7 +25,7 @@ export default function Testimonials() {
     {
       personImage: "/ls.jpg",
       name: "Emil Strande",
-      position: "Ejer - Letzsneak",
+      position: "",
       companyImage: "/meta.png",
       words:
         "De hjalp os med at producere ugc videoer. Vi fik hurtigt mange følgere. Teamet bag er unge og entusiastiske og går op i at levere et produkt som du er tilfreds med.",
@@ -51,7 +51,7 @@ export default function Testimonials() {
     {
       personImage: "/ls.jpg",
       name: "Emil Strande",
-      position: "Founder - Letzsneak",
+      position: "",
       companyImage: "/meta.png",
       words:
         "They helped us produce ugc videos. We quickly gained many followers. The team behind it is young and enthusiastic and is committed to delivering a product that you're satisfied with.",

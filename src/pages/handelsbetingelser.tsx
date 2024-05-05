@@ -127,6 +127,7 @@ export default function Handelsbetingelser() {
             OCMA masterclass fraskriver sig alt ansvar fra hvorvidt kursister får succes ved at opnå kunder herigennem indtægt. Dette gøres af respekt for S&B Schoensted Consulting ApS’ online forløb.
 Alle indtjening – og indkomst eksempler på henholdsvis hjemmeside og mentorforløb, er udelukkende et estimat for, hvad der er realistisk at opnå. Der er ingen forsikring for, at du vil kunne efterleve eksemplerne, men de er dog realistiske.
 S&B Schoensted Consulting ApS tager intet ansvar for eventuelle økonomiske tab, du skulle få ved brug af s&b schoensted consulting ApS’ produkt, uagtet vi synes prisen er meget retfærdig holdt op mod værdien heraf.              </p>
+            <p>Kunden opnår den 12 måneders brugsret til det pågældende videoindhold</p>
             <p className="mt-20">OPDATERET: d. 3 Maj</p>
           </div>
         </div>
