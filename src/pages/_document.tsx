@@ -14,8 +14,9 @@ export default function Document() {
         <link rel="icon" href="/favicon.png" />
         <Meta />
       </Head>
-
+      <Script src="https://api.toolbird.io/js/script.js" strategy="lazyOnload" data-domain="ocmamasterclass.com"/>
       <body>
+        <Script src="https://api.toolbird.io/js/script.js" strategy="lazyOnload" data-domain="ocmamasterclass.com"/>
         <Main />
         <NextScript />
       </body>
