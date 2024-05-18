@@ -59,8 +59,8 @@ export default function Hero() {
                   className="text-glow bg-blue-500 text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
                   href={
                     currentPath === "/en"
-                      ? "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
-                      : "https://calendly.com/ocmamasterclass-dk/30min?fbclid=IwAR39mtx2qWsMji5YUCmT7_dDDs4e7fCd_2oH_VBE_DVxq6F4Cc_CNaWwBU0&month=2024-03"
+                      ? "https://calendly.com/ocmamasterclass-dk/optagelses-mode-clone?month=2024-05"
+                      : "https://calendly.com/ocmamasterclass-dk/optagelses-mode-clone?month=2024-05"
                   }
                 >
                   {currentPath === "/en" ? "Apply today" : "Ansøg i dag"}
