@@ -21,51 +21,54 @@ export default function Privacy() {
       <Navbar />
       <section className="py-[150px] pt-[250px]">
         <div className="w-[90%] mx-auto max-w-[800px]">
-          <h1 className="text-[50px] font-[700] mb-[100px]">Privacy policy</h1>
+          <h1 className="text-[50px] font-[700] mb-[100px]">
+            Privacy Policy
+          </h1>
           <div className="mb-[50px]">
-            <h1 className="text-[30px] font-[700] mb-[20px]">In general</h1>
+            <h1 className="text-[30px] font-[700] mb-[20px]">General Information</h1>
             <p className="text-[18px]">
-            Personal data is any kind of information that can be attributed to you to one extent or another. When you use our website, we collect and process a number of such information. This happens, for example, when you access content, sign up for our newsletter, participate in competitions or surveys, register as a user or subscriber, use other services or make bookings/purchases via the website. 
+            OCMA masterclass, located in the EU and operating within the sector "855900 Other education n.e.c.", values ​​your privacy and is committed to protecting the personal data we collect about you in accordance with applicable data protection legislation, including the General Data Protection Regulation (GDPR).            </p>
+          </div>
+          <div className="mb-[50px]">
+            <h1 className="text-[30px] font-[700] mb-[20px]">Data Collection and Purpose</h1>
+            <p className="text-[18px]">
+            When you register on our website or participate in our activities, you will be asked to provide your first name, email address and telephone number. This information is collected solely for the purpose of being able to contact you and offer you relevant marketing material and information about our services. </p>         </div>
+          <div className="mb-[50px]">
+            <h1 className="text-[30px] font-[700] mb-[20px]">Consent</h1>
+            <p className="text-[18px]">
+            By entering your information on our registration form and checking the box "I accept", you confirm that you have read and understand this privacy policy and expressly consent to us processing your personal data for marketing purposes. You can withdraw your consent at any time by contacting us or by following the unsubscribe instructions in the communications you receive from us.</p>          </div>
+          <div className="mb-[50px]">
+            <h1 className="text-[30px] font-[700] mb-[20px]">Storage and Security</h1>
+            <p className="text-[18px]">
+            Your personal data is stored securely in our CRM system, Leadconnector, which is hosted in the EU. We use appropriate technical and organizational security measures to protect your information from unauthorized access, alteration, disclosure or destruction.            </p>
+          </div>
+          <div className="mb-[50px]">
+            <h1 className="text-[30px] font-[700] mb-[20px]">Disclosure of information</h1>
+            <p className="text-[18px]">
+            Data about your use of the website, which advertisements you receive and possibly clicks on, geographic location, gender and age segment, etc. disclosed to third parties to the extent that this information is known.
 
-We typically collect and process the following types of information: A unique ID and technical information about your computer, tablet or mobile phone, your IP number, geographical location, and which pages you click on (interests). To the extent that you explicitly consent to this and enter the information yourself, we also process Name, phone number, e-mail, address and payment information. This will typically be in connection with creating a login or making a purchase.
+We also use a number of third parties to store and process data. These only process information on our behalf and may not use it for their own purposes.
+Dissemination of personal data such as name and e-mail etc. will only happen if you consent to it. We only use data processors in the EU or in countries that can provide your information with sufficient protection.
+
+              </p>
+          </div>
+          <div className="mb-[50px]">
+            <h1 className="text-[30px] font-[700] mb-[20px]">Your Rights</h1>
+            <p className="text-[18px]">
+            As the data controller, you have the right to request access to and correction or deletion of your personal data. You also have the right to restrict the processing of your data and to object to the processing. If you wish to exercise these rights, please contact us at the contact information provided below.            </p>
+          </div>
+          <div className="mb-[50px]">
+            <h1 className="text-[30px] font-[700] mb-[20px]">Contact information</h1>
+            <p className="text-[18px]">
+            If you have questions or concerns regarding the processing of your personal data, you can contact us via:
+benjamin@ocmamasterclass.com
 
             </p>
           </div>
           <div className="mb-[50px]">
-            <h1 className="text-[30px] font-[700] mb-[20px]">Security</h1>
+            <h1 className="text-[30px] font-[700] mb-[20px]">Changes to the Privacy Policy</h1>
             <p className="text-[18px]">
-            We have taken technical and organizational measures to prevent your information from being accidentally or illegally deleted, published, lost, impaired or disclosed to unauthorized persons, misused or otherwise processed in violation of the law.
-            </p>
-          </div>
-          <div className="mb-[50px]">
-            <h1 className="text-[30px] font-[700] mb-[20px]">Purpose</h1>
-            <p className="text-[18px]">
-            The information is used to identify you as a user and show you the ads that are most likely to be relevant to you, to register your purchases and payments, and to provide the services you have requested, such as sending a newsletter. In addition, we use the following to optimize our service. 
-            </p>
-          </div>
-          <div className="mb-[50px]">
-            <h1 className="text-[30px] font-[700] mb-[20px]">
-              Period of storage
-            </h1>
-            <p className="text-[18px]">
-            The data is stored for the period permitted by law and we delete it when it is no longer needed. The period depends on the nature of the data and the reason for storage. It is therefore not possible to specify a general time frame for when information is deleted.
-            </p>
-          </div>
-          <div className="mb-[50px]">
-            <h1 className="text-[30px] font-[700] mb-[20px]">
-              Disclosure of informations
-            </h1>
-            <p className="text-[18px]">
-            Data about your use of the website, which ads you receive and possibly click on, geographic location, gender and age segment, etc. is disclosed to third parties to the extent that this information is known. You can see which third parties are involved in the section on "Cookies" above. The information is used for targeting advertising. We also use a number of third parties to store and process data. They only process data on our behalf and may not use it for their own purposes. Disclosure of personal data such as name and e-mail etc. will only take place if you consent to it. We only use data processors in the EU or in countries that can provide adequate protection for your data.
-            </p>
-          </div>
-          <div className="mb-[50px]">
-            <h1 className="text-[30px] font-[700] mb-[20px]">
-            General terms and conditions
-            </h1>
-            <p className="text-[18px]">
-            Your registration in any context under our domain is subject to these terms. You agree that OCMA masterclass is allowed to send marketing related emails, calls/text(s) to you if they feel it is relevant. In addition, you agree that you are over 18 years of age when you register under our domain.
-            </p>
+            This Privacy Policy may be updated from time to time to reflect changes in our practices. The current version will always be available on our website.            </p>
           </div>
         </div>
       </section>
