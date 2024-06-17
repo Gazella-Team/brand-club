@@ -1,6 +1,10 @@
 import { Reveal } from "./Animations/Reveal";
 import SectionStarter from "./sectionstarter";
 import { useRouter } from "next/router";
+import AlexanderDk from "./video-tests/alexander";
+import MathiasEn from "./video-tests/mathias-en";
+import AlexanderEn from "./video-tests/alexander-en";
+import MathiasDk from "./video-tests/mathias";
 
 export default function StudentTests() {
   const router = useRouter();
@@ -61,15 +65,13 @@ export default function StudentTests() {
         </Reveal>
         {currentPath === "/en" ? (
           <div className="grid grid-cols-2 gap-[30px] heroOne:grid-cols-1 heroOne:max-w-[400px] heroOne:mx-auto">
-            {englishTestimonialsData.map((v, index) => (
-              <TestimonialsCard key={index} Obj={v} />
-            ))}
+            <AlexanderEn />
+            <MathiasEn />
           </div>
         ) : (
           <div className="grid grid-cols-2 gap-[30px] heroOne:grid-cols-1 heroOne:max-w-[400px] heroOne:mx-auto">
-            {testimonialsData.map((v, index) => (
-              <TestimonialsCard key={index} Obj={v} />
-            ))}
+            <AlexanderDk />
+            <MathiasDk />
           </div>
         )}
       </div>
