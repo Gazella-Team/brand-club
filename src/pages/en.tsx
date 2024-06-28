@@ -19,14 +19,16 @@ import StudentTests from "@/components/studenttests";
 
 export default function Home() {
   return (
-    <main style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}}>
+    <main className="bg-black">
       <Meta />
       <Navbar />
       <Hero />
       <FeaturesSlider />
+      {/*
       <Element name="testimonials">
         <Testimonials />
       </Element>
+       */}
       <TrustBadges />
       <About />
       <Element name="omos">

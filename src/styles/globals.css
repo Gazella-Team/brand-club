@@ -90,7 +90,7 @@ body {
 }
 
 .text-glow {
-  -webkit-box-shadow: 100px 0px 407px -7px rgba(59,131,246,1);
-  -moz-box-shadow: 100px 0px 197px -7px rgba(59,131,246,1);
-  box-shadow: 10px 0px 197px -7px rgba(59,131,246,1);
+  -webkit-box-shadow: 100px 0px 407px -7px rgb(9, 142, 14);
+  -moz-box-shadow: 100px 0px 197px -7px rgb(17, 136, 65);
+  box-shadow: 10px 0px 197px -7px rgb(50, 100, 7);
 }

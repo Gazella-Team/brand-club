@@ -53,7 +53,7 @@ export default function Why() {
             {currentPath === "/en"
               ? "Why choose our"
               : "Hvorfor vores masterclass"}{" "}
-            <span className="text-blue-500">
+            <span className="text-green-600">
               {currentPath === "/en" ? "masterclass" : "skiller sig ud"}
             </span>
           </h1>
@@ -61,7 +61,7 @@ export default function Why() {
         <div className="grid grid-cols-2 gap-[30px] navbar:grid-cols-1">
           {currentPath === "/en" ? (
             <Reveal>
-              <div style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}} className="border-[4px] border-blue-500 text-left p-[40px] rounded-main box-border">
+              <div className="border-[4px] bg-green-600 border-green-700 text-left p-[40px] rounded-main box-border">
                 <h1 className="text-[30px]  text-white font-[700] mb-[40px]">
                  OCMA
                 </h1>
@@ -81,7 +81,7 @@ export default function Why() {
             </Reveal>
           ) : (
             <Reveal>
-              <div style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}} className="bg-blue-500 border-[4px] border-blue-500 text-left p-[40px] rounded-main box-border">
+              <div className="bg-green-600 border-[4px] border-green-700 text-left p-[40px] rounded-main box-border">
                 <h1 className="text-[30px]  text-white font-[700] mb-[40px]">
                   OCMA
                 </h1>

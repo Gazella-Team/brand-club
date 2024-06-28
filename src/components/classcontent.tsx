@@ -484,7 +484,7 @@ export default function ClassContent() {
             {currentPath === "/en"
               ? "Get a taste of what you get in "
               : "Se en smagsprøve af hvad du kan forvente i"}{" "}
-            <span className="text-blue-500">
+            <span className="text-white">
               {currentPath === "/en" ? " OCMA Masterclass?" : " OCMA Masterclass"}
             </span>
           </h1>
@@ -520,7 +520,7 @@ const ClassContentCard = (props: any) => {
   const [cardExpanded, setCardExpanded] = useState(false);
   return (
     <Reveal>
-      <div style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}} className="p-[20px] text-blue-950 bg-white rounded-main">
+      <div className="p-[20px] bg-green-600 text-blue-950 rounded-main">
         <div className="grid grid-cols-contentCard gap-[30px] trustbadgesTwo:grid-cols-1">
           <img
             alt="courseelement"
@@ -528,7 +528,7 @@ const ClassContentCard = (props: any) => {
             src={props.Obj.image}
           ></img>
           <div className="text-left flex flex-col justify-center gap-[10px]">
-            <p className="bg-blue-500 text-white w-[100px] text-center p-[6px] rounded-[100px] font-[700] mb-[10px]">
+            <p className="text-green-600 bg-white w-[100px] text-center p-[6px] rounded-[100px] font-[700] mb-[10px]">
               {currentPath === "/en" ? "Chapter " : "Kapitel "}
               {props.i}
             </p>
@@ -563,7 +563,7 @@ const ClassContentCard = (props: any) => {
         {cardExpanded ? (
           <div className="mt-[20px] flex flex-col gap-[20px]">
             {props.Obj.moduleContent.map((v: any) => (
-              <div style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}} key={v} className="text-left p-[10px] border-[1px] border-gray-600 rounded-main text-main grid grid-cols-subcontent gap-[40px]">
+              <div  key={v} className="text-left p-[10px] border-[1px] border-gray-600 rounded-main text-main grid grid-cols-subcontent gap-[40px]">
                 <img
                   alt={v.moduleContentImage}
                   className="rounded-main h-[120px] w-full object-cover"

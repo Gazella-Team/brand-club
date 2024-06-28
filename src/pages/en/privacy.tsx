@@ -17,7 +17,7 @@ import { Element } from "react-scroll";
 
 export default function Privacy() {
   return (
-    <main style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}}>
+    <main className="bg-black">
       <Navbar />
       <section className="py-[150px] pt-[250px]">
         <div className="w-[90%] mx-auto max-w-[800px]">

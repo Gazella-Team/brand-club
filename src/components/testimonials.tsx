@@ -63,7 +63,7 @@ export default function Testimonials() {
         <Reveal>
           <h1 className="bg-transparent inline-block text-heroHeading font-[700] mb-[14px]">
             {currentPath === "/en" ? "Business" : "Erhvervs"}{" "}
-            <span className="text-blue-500">
+            <span className="text-green-600">
               {currentPath === "/en" ? "Recommendations" : "Anbefalinger"}
             </span>
           </h1>
@@ -96,7 +96,7 @@ export default function Testimonials() {
 const TestimonialsCard = (props: any) => {
   return (
     <Reveal>
-      <div style={{background: "linear-gradient(338deg, rgba(3,2,32,1) 0%, rgba(30,12,119,1) 49%, rgba(8,5,82,1) 100%)"}} className="rounded-main text-glow  p-[14px] pb-[20px] text-left">
+      <div className="rounded-main text-glow p-[14px] pb-[20px] text-left">
         <img
           alt={props.Obj.personImage}
           className="rounded-main h-[300px] w-full object-cover object-top mb-[20px]"

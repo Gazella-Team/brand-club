@@ -23,7 +23,7 @@ export default function Hero() {
               {currentPath === "/en"
                 ? "Perfected masterclass that guides you step by step in building an"
                 : "Veludarbejdet masterclass, der guider dig trin for trin i opbygningen af et"}{" "}
-              <span className="text-blue-500">
+              <span className="text-green-600">
                 {currentPath === "/en"
                   ? "OCMA"
                   : "OCMA"}
@@ -56,7 +56,7 @@ export default function Hero() {
             <Reveal>
               <div className="flex gap-[10px] heroTwo:flex-col">
                 <a
-                  className="text-glow bg-blue-500 text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
+                  className="text-glow bg-green-600 text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
                   href={
                     currentPath === "/en"
                       ? "https://calendly.com/ocmamasterclass-dk/optagelses-mode-clone?month=2024-05"
@@ -73,7 +73,7 @@ export default function Hero() {
                   to="omos"
                   smooth={true}
                   duration={500}
-                  className="text-glow bg-blue-500 text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
+                  className="text-glow bg-green-600 text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
                 >
                   {currentPath === "/en" ? "Hear more" : "Hør mere"}
                   <span>

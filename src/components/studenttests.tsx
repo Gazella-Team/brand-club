@@ -51,7 +51,7 @@ export default function StudentTests() {
         <Reveal>
           <h1 className="bg-transparent inline-block text-heroHeading font-[700] mb-[14px]">
             {currentPath === "/en" ? "What our" : "Hvad vores"}{" "}
-            <span className="text-blue-500">
+            <span className="text-green-600">
               {currentPath === "/en" ? "students say" : "elever siger"}
             </span>
           </h1>
