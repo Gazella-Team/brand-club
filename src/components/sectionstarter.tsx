@@ -14,7 +14,7 @@ export default function SectionStarter(props: any) {
   ) : (
     <Reveal>
       <div className="text-center bg-transparent">
-        <div className="text-blue-950 inline-block p-[4px] px-[16px] rounded-[100px] border-[2px] border-blue-950 mb-[30px] font-[600]">
+        <div className="text-green-950 inline-block p-[4px] px-[16px] rounded-[100px] border-[2px] border-green-950 mb-[30px] font-[600]">
           <p>{props.section}</p>
         </div>
       </div>

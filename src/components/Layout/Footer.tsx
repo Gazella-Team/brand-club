@@ -10,7 +10,7 @@ export default function Footer() {
           <h1 className="text-center text-white text-[40px] font-[700] mb-[40px]">
             {currentPath === "/en"
               ? "Step by step on how you can achieve an OCMA"
-              : "Step by step på hvordan du kan opnå et OCMA"}
+              : "Ansøg for en gratis uforpligtende samtale"}
           </h1>
           <Link
             className="bg-green-600 text-white p-[30px] py-[10px] rounded-full text-glow"
