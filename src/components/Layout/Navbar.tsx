@@ -47,10 +47,6 @@ export default function Navbar() {
                   {currentPath === "/en" ? "About" : "Om os"}
                 </Link>
               </div>
-              <div className="navbar:hidden">
-                <Language />
-              </div>
-
               <div className="flex items-center gap-[10px] navbar:hidden">
                 <a
                   className="text-white p-[10px] py-[12px] rounded-full font-[500]"
