@@ -22,7 +22,7 @@ export default function Hero() {
             <h1 className="text-heroHeading text-white font-[700] mb-[20px] heroTwo:text-[30px]">
               {currentPath === "/en"
                 ? "Perfected masterclass that guides you step by step in building an"
-                : "VFællesskab for seriøse brandejere, som vil skalere deres"}{" "}
+                : "Fællesskab for seriøse brandejere, som vil skalere deres"}{" "}
               <span className="text-green-600">
                 {currentPath === "/en"
                   ? "OCMA"
