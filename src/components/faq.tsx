@@ -12,35 +12,30 @@ import SectionStarter from "./sectionstarter";
 
 const questions = [
   {
-    question: "Kan jeg gøre dette, mens jeg går i skole/arbejder?",
+    question: "Hvem er ejerne bag Brand Onwers club?",
     answer:
-      "Ja, selvfølgelig. Det er ikke noget problem at gå i skole, mens du driver denne virksomhed. Da vi startede med forretning, gik vi begge i gymnasiet, men nu er vi fuldtidsbeskæftigede med vores virksomheder.",
+      "Ejerne Bag hedder Gustav Aabro & filip Mellbin. de tog deres eget tøjbrand fra 0 - 2 millioner i omsætning på 6 måneder. De har en omfattende forståelse for hvordan du skalerer og opbygger et stærkt brand. Derfor lærer de nu andre videre i netop dette.",
   },
   {
-    question: "Hvordan får jeg support?",
+    question: "Kan jeg være en del af brand owners club mens jeg er under uddannelse?",
     answer:
-      "Du kan altid sende os en besked, eller opsætte et 1:1 opkald med os  og vi vil hjælpe, for som vores motto siger: din succes er vores succes.",
-  },
-  {
-    question: "Hvad kommer jeg til at lære?",
-    answer:
-      "Du vil lære hvordan man starter et OCMA, hvor vi gennemgår de tips & tricks vi selv har erfaret.",
-  },
-  {
-    question:
-      "Hvad sker der, efter jeg er blevet accepteret til at købe OCMA Masterclass?",
-    answer:
-      "Som du måske har lagt mærke til er der ingen “køb nu” knap  på hjemmesiden, og det er der ikke grundet den garanti vi har. Vi skal tale med alle, inden du får adgang. Vi vil gerne vide hvem vi better vores egne penge på. Efter du har fået tilladelse vil du blive tilføjet til vores egen software med alle moduler. Vores undervisningsmateriale er både i tekst og video. Derudover kommer du med i en gruppe for eksklusive medlemmer af OCMA Masterclass, for at spare med hinanden og os.",
+      "Vi startede selv vores tøjmærke mens vi var under uddannelse & job. Det lukrative ved et tøjbrand er at du let kan balancerer job eller uddannelse grundet den fleksibilitet man får gennem at have sin egen forretning.",
   },
   {
     question: "Hvor meget kan jeg forvente at tjene?",
     answer:
-      "Der er ingen maximum på, hvor meget du kan tjene; det er fordelene ved denne forretningsmodel. Som regel vokser dit agency og netværk med tiden, hvilket giver mulighed for større vækst, samtidig med at tidsforbruget mindskes. Du har derfor selv muligheden for at bestemme, afhængigt af dine målsætninger, hvor du ønsker at bevæge dig hen. Vi har dog set flere af de første elever lukke aftaler på 8-30.000,- efter blot en uge og derefter opsige deres job. Men husk det er eksempler og ikke nødvendigvis hvad der er gældende for dig.",
+      "Der er ingen maximum på, hvor meget du kan tjene; det er fordelene ved at have en Rigtig Forretning, og ikke den døgnflue. Som regel vokser dit tøjbrand og netværk med tiden, hvilket giver mulighed for større vækst, samtidig med at tidsforbruget mindskes. Du har derfor selv muligheden for at bestemme, afhængigt af dine målsætninger, hvor du ønsker at bevæge dig hen. Vi har dog set flere af de første elever  ramme 100.000 / måned i omsætning efter blot 3 måneder.  Men husk det er eksempler og ikke nødvendigvis hvad der er gældende for dig.",
   },
   {
-    question: "Kan man ikke bare lære dette på youtube?",
+    question:
+      "Har jeg penge tilbage garanti?",
     answer:
-      "Ofte vil du kunne finde den information, du får i kurser på YouTube eller lignende, men sådan er det ikke her, eftersom vores forretningsmodel er helt ny. For at bevise dette, vil jeg gerne tage dig med på en test. Gå ind på YouTube og søg efter OCMA. Det ville overraske mig, hvis du fandt noget, og det ville det netop, eftersom vi er de første, der lærer dig netop dette. Det skal dog nævnes, at der er andre forretningsmodeller, der læner sig op ad denne.",
+      "Hvis du får tilladelse til at tage part i BRAND OWNERS CLUB garanterer vi dig en omsætning på min 20.000,- efter 2 måneder. denne garanti har vi lavet efter tidligere data med diverse “test personer” som fik direkte adgang til vores metoder. Grundet vores garanti, kan vi ikke lade alle og enhver tage part i vores fællesskab, du skal være målrettet.",
+  },
+  {
+    question: "Hvad sker der, efter jeg er blevet accepteret ind i  Brand Owners Club? ",
+    answer:
+      "Som du måske har lagt mærke til er der ingen “køb nu” knap på hjemmesiden, og det er der ikke grundet den garanti vi har. Vi skal tale med alle, inden du får adgang. Vi vil gerne vide hvem vi better vores egne penge på. Og hvem der skal repræsentere Brand Owners Club fællesskabet udadtil. Efter du har fået tilladelse til at tage part i dette eksklusive fællesskab vil du blive tilføjet til vores egen software med alle moduler. Vores undervisningsmateriale er både i tekst og video. Derudover kommer du med i en gruppe for eksklusive medlemmer Brand Owners Club, for at spare med hinanden og os.",
   },
 ];
 const englishQuestions = [
