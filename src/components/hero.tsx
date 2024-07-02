@@ -22,11 +22,11 @@ export default function Hero() {
             <h1 className="text-heroHeading text-white font-[700] mb-[20px] heroTwo:text-[30px]">
               {currentPath === "/en"
                 ? "Perfected masterclass that guides you step by step in building an"
-                : "Veludarbejdet masterclass, der guider dig trin for trin i opbygningen af et"}{" "}
+                : "VFællesskab for seriøse brandejere, som vil skalere deres"}{" "}
               <span className="text-green-600">
                 {currentPath === "/en"
                   ? "OCMA"
-                  : "OCMA"}
+                  : "tøjbrand"}
               </span>
             </h1>
           </Reveal>
@@ -49,7 +49,7 @@ export default function Hero() {
             <p className="text-heroDescription text-gray-200 mb-[40px] w-[90%]">
               {currentPath === "/en"
                 ? "Using our comprehensive framework, you'll get guidance on how to build a business, generate profits and scale it to new heights - just like we did it ourselves."
-                : "Ved hjælp af vores omfattende framework får du vejledning i, hvordan du opbygger en virksomhed, genererer profit og skalerer den til nye højder - nøjagtigt som vi gjorde det selv."}
+                : "Ved hjælp af vores omfattende framework får du vejledning i, hvordan du opbygger et tøjbrand, genererer profit og skalerer den til nye højder - nøjagtigt som vi gjorde det selv."}
             </p>
           </Reveal>
           <div>
@@ -59,8 +59,8 @@ export default function Hero() {
                   className="text-glow bg-green-600 text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
                   href={
                     currentPath === "/en"
-                      ? "https://calendly.com/ocmamasterclass-dk/optagelses-mode-clone?month=2024-05"
-                      : "https://calendly.com/ocmamasterclass-dk/optagelses-mode-clone?month=2024-05"
+                      ? "https://calendly.com/google-brandownersclub/30min"
+                      : "https://calendly.com/google-brandownersclub/30min"
                   }
                 >
                   {currentPath === "/en" ? "Apply today" : "Ansøg i dag"}
@@ -80,16 +80,6 @@ export default function Hero() {
                     <ArrowRight size={20} />
                   </span>
                 </Link>
-              </div>
-            </Reveal>
-            <Reveal>
-              <div className="flex items-center mt-10">
-                <img className="w-14 rounded-full" src="/tooltip/1.jpg"></img>
-                <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/2.jpg"></img>
-                <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/3.jpg"></img>
-                <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/4.jpg"></img>
-                <img className="w-14 rounded-full ml-[-14px]" src="/tooltip/5.jpg"></img>
-                <p className="ml-4 text-xl">{currentPath === "/en" ? "+80 active students":"+80 aktive elever"}</p>
               </div>
             </Reveal>
           </div>

@@ -1,4 +1,4 @@
-import { Lock, Clock, RefreshCcwDot, ShieldCheck } from "lucide-react";
+import { Lock, Clock, RefreshCcwDot, ShieldCheck, Camera } from "lucide-react";
 import { Reveal } from "./Animations/Reveal";
 import { useRouter } from "next/router";
 
@@ -18,9 +18,9 @@ export default function TrustBadges() {
         </Reveal>
         <Reveal>
           <div className="flex items-center justify-center gap-[10px] text-blue-950 blinking-object">
-            <Clock size={34} />
+            <Camera size={34} />
             <h1 className="text-[22px] font-[700]">
-              {currentPath === "/en" ? "30+ modules" : "30+ moduler"}
+              {currentPath === "/en" ? "50+ modules" : "50+ moduler"}
             </h1>
           </div>
         </Reveal>

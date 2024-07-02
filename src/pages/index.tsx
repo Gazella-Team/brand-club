@@ -26,7 +26,7 @@ export default function Home() {
       <Hero />
       <FeaturesSlider />
            {/*
-                 <Element name="testimonials">
+      <Element name="testimonials">
         <Testimonials />
       </Element>
          */}
