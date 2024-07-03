@@ -179,6 +179,7 @@ import {
     return (
       <Reveal>
         <div className="text-left bg-green-600 p-[20px] border-[2px] rounded-main">
+          <img src="/boc/module.webp"></img>
           <div className="flex items-center justify-between text-white">
             <div className="flex items-center gap-[20px] text-[18px] font-[700]">
               <div className="bg-white-500 p-[10px] rounded-[50px] text-white">

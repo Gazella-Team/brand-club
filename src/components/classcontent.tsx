@@ -6,7 +6,7 @@ import { useRouter } from "next/router";
 
 const classContentData = [
   {
-    image: "/chaps/ch1.jpg",
+    image: "/boc/course/1.png",
     mainHeading: "Fundamentet for dit tøjbrand",
     videoQuantity: "2",
     timeOfModule: "0:41:17",
@@ -34,7 +34,7 @@ const classContentData = [
     ],
   },
   {
-    image: "/chaps/ch2.jpg",
+    image: "/boc/course/2.png",
     mainHeading: "Målsætninger",
     videoQuantity: "5",
     timeOfModule: "0:17:26",
@@ -57,7 +57,7 @@ const classContentData = [
     ],
   },
   {
-    image: "/chaps/ch3.jpg",
+    image: "/boc/course/3.png",
     mainHeading: "Branding",
     videoQuantity: "3",
     timeOfModule: "1:04:15",
@@ -80,7 +80,7 @@ const classContentData = [
     ],
   },
   {
-    image: "/chaps/ch4.jpg",
+    image: "/boc/course/4.png",
     mainHeading: "Produkthåndtering  og design",
     videoQuantity: "3",
     timeOfModule: "0:26:06",
@@ -108,7 +108,7 @@ const classContentData = [
     ],
   },
   {
-    image: "/chaps/ch5.jpg",
+    image: "/boc/course/5.png",
     mainHeading: "Hvordan du laver content til dit brand",
     videoQuantity: "7",
     timeOfModule: "2:55:35",
@@ -132,7 +132,7 @@ const classContentData = [
     ],
   },
   {
-    image: "/chaps/ch6.jpg",
+    image: "/boc/course/6.png",
     mainHeading: "Byg din hjemmeside professionelt",
     videoQuantity: "2",
     timeOfModule: "07:38",
@@ -168,7 +168,7 @@ const classContentData = [
     ],
   },
   {
-    image: "/chaps/ch7.jpg",
+    image: "/boc/course/7.png",
     mainHeading: "Markedsføring til dit brand",
     videoQuantity: "1",
     timeOfModule: "12:19",
@@ -201,7 +201,7 @@ const classContentData = [
     ],
   },
   {
-    image: "/chaps/ch8.jpg",
+    image: "/boc/course/8.png",
     mainHeading: "Dit første salg",
     videoQuantity: "5",
     timeOfModule: "1:12:33",
@@ -226,7 +226,7 @@ const classContentData = [
     ],
   },
   {
-    image: "/chaps/ch9.jpg",
+    image: "/boc/course/9.png",
     mainHeading: "Skalering af brand",
     videoQuantity: "4",
     timeOfModule: "17:36",
@@ -259,7 +259,7 @@ const classContentData = [
     ],
   },
   {
-    image: "/chaps/ch9.jpg",
+    image: "/boc/course/10.png",
     mainHeading: "Få en oversigt af dine tal",
     videoQuantity: "4",
     timeOfModule: "17:36",
