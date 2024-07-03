@@ -6,7 +6,7 @@ export default function BocContent() {
   const currentPath = router.pathname.slice(0, 3);
   return (
     <section  className="py-[100px]">
-      <div className="w-sectionMain mx-auto max-w-main text-white text-center">
+      <div className="w-sectionMain mx-auto max-w-mainc text-white text-center">
         <Reveal>
           <h1 className="bg-transparent inline-block text-heroHeading font-[700] mb-[14px]">
             {currentPath === "/en" ? "Business" : "Danmarks førende fællesskab for ambitiøse brandejere"}{" "}
@@ -22,6 +22,9 @@ export default function BocContent() {
               : " Branchens mest komplette tøjbrand forløb, hvor hver stadie af din tøjbrands - rejse er samlet på en platform. En one-stop-destination, der frigør dig fra at opsøge yderligere viden, kompetencer, dyre bureauer, seminarer eller anden ekstern information. Den mest opdaterede indsigt i alle aspekter inden for skalering og drift af et succesfuldt tøjmærke. "}
           </p>
         </Reveal>
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
+
+        </div>
       </div>
     </section>
   );

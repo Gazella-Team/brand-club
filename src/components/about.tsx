@@ -17,12 +17,9 @@ export default function About() {
           <h1 className="text-heroHeading font-[700] w-[80%] mx-auto navbar:text-[20px]">
             {currentPath === "/en"
               ? "Read more about who we are, what we do and how we got to where we are today."
-              : "Læs mere omkring hvem vi er, hvad vi laver, og hvordan vi er nået til der, hvor vi er i dag"}{" "}
+              : "læs mere omkring vores succeshistorie med vores eget tøjmærke"}{" "}
           </h1>
         </Reveal>
-        <div className="flex items-center justify-center mt-[40px]">
-          <ArrowBigDown className="blinking-object" size={60} />
-        </div>
       </div>
     </section>
   );
