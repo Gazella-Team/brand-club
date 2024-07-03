@@ -17,6 +17,7 @@ import { Element } from "react-scroll";
 import Meta from "@/components/Layout/Meta";
 import StudentTests from "@/components/studenttests";
 import WistiaVideo from "@/components/wistia-embed";
+import BocContent from "@/components/boc/content";
 
 export default function Home() {
   return (
@@ -32,6 +33,7 @@ export default function Home() {
          */}
       <TrustBadges />
       <About />
+      <BocContent />
       <Element name="omos">
         <Articles />
       </Element>
