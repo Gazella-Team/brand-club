@@ -35,7 +35,7 @@ export default function Hero() {
             {currentPath === "/en" ? (
               <div className="flex flex-col items-center">
                 <div>
-                  <EnglishWistiaVideo />
+                <WistiaVideo />
                 </div>
               </div>
             ) : (
@@ -89,7 +89,7 @@ export default function Hero() {
           <Reveal>
             {currentPath === "/en" ? (
               <div className="flex flex-col items-center">
-                <EnglishWistiaVideo />
+                <WistiaVideo />
               </div>
             ) : (
               <div className="flex flex-col items-center">

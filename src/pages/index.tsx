@@ -16,7 +16,6 @@ import Contents from "@/components/contents";
 import { Element } from "react-scroll";
 import Meta from "@/components/Layout/Meta";
 import StudentTests from "@/components/studenttests";
-import WistiaVideo from "@/components/wistia-embed";
 import BocContent from "@/components/boc/content";
 
 export default function Home() {
@@ -43,7 +42,6 @@ export default function Home() {
         <ClassContent />
       </Element>
       <Why />
-      <StudentTests />
       <FAQ />
       <Footer />
     </main>
