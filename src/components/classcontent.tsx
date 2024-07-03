@@ -7,238 +7,272 @@ import { useRouter } from "next/router";
 const classContentData = [
   {
     image: "/chaps/ch1.jpg",
-    mainHeading: "Dine foundations",
+    mainHeading: "Fundamentet for dit tøjbrand",
     videoQuantity: "2",
-    timeOfModule: "0:09:28",
+    timeOfModule: "0:41:17",
     moduleContent: [
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Introduktion til OCMA",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Konceptet bag dit tøjmærke",
         moduleContentTime: "07:01",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Dine foundations",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Opbyg dit tøjmærke fundamenter",
+        moduleContentTime: "06:33",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Tøj brands ordbogen",
+        moduleContentTime: "07:01",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Målgruppe forståelse",
         moduleContentTime: "06:33",
       },
     ],
   },
   {
     image: "/chaps/ch2.jpg",
-    mainHeading: "Byg dit eget OCMA fra bunden",
+    mainHeading: "Målsætninger",
     videoQuantity: "5",
     timeOfModule: "0:17:26",
     moduleContent: [
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Dit OCMA udefra",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Trin for trin årsplan",
         moduleContentTime: "08:02",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "OCMA, verden af systemer",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Få struktur over dine arbejdsopgaver",
         moduleContentTime: "06:24",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Sådan laver du dit digitale visitkort",
-        moduleContentTime: "03.00",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Opsætning af din online tilstedeværelse",
-        moduleContentTime: "06:24",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Lav din linkedin fra bunden",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Forstå hvordan du sætter målsætninger og planer",
         moduleContentTime: "03.00",
       },
     ],
   },
   {
     image: "/chaps/ch3.jpg",
-    mainHeading: "Få din fod indenfor døren",
+    mainHeading: "Branding",
     videoQuantity: "3",
     timeOfModule: "1:04:15",
     moduleContent: [
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Introduktion til at kontakte virksomheder",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Case study i hvordan vi lavede ngoodso // trin for trin",
         moduleContentTime: "04:07",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Hvilke forretninger at kontakte + metoderne bag",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Hvordan du lader dig inspirere * korrekt",
         moduleContentTime: "31:17",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "“OCMA” opskriften for outreach",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Sådan laver du din første Brandbog",
         moduleContentTime: "28:51",
       },
     ],
   },
   {
     image: "/chaps/ch4.jpg",
-    mainHeading: "Få planterne til at spire (luk handlerne)",
+    mainHeading: "Produkthåndtering  og design",
     videoQuantity: "3",
     timeOfModule: "0:26:06",
     moduleContent: [
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "“lav” handlen",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Hvordan du fanger trends",
         moduleContentTime: "05:07",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Follow up på dine kunder",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Hvilke Produkter & tekstiler skal du vælge?",
         moduleContentTime: "04:55",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Forberedelser på at fange din første fisk",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Vores leverandører gennemgang ",
+        moduleContentTime: "10:01",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Professionel Produktdesign gennemgang",
         moduleContentTime: "10:01",
       },
     ],
   },
   {
     image: "/chaps/ch5.jpg",
-    mainHeading: "Lær forretningen selv og outsource derefter",
+    mainHeading: "Hvordan du laver content til dit brand",
     videoQuantity: "7",
     timeOfModule: "2:55:35",
     moduleContent: [
       {
-        moduleContentImage: "/lock.webp",
+        moduleContentImage: "/boc/module.webp",
         moduleContentHeading:
-          "Maskineriet bag resultaterne",
+          "Valg af Modeller i forskellige niecher",
         moduleContentTime: "19:00",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Pris for inhouse produktion",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Håndtering af Produktbilleder",
         moduleContentTime: "27:10",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Fundemental gennemgang af redigering",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Håndtering af modelbilleder",
         moduleContentTime: "1:01:16",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Professionel “flue på væggen”(mens vi redigerer)",
-        moduleContentTime: "40:38",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Post første stykke materiale",
-        moduleContentTime: "10:29",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Content scaler “aldrig løb tør for ideer”",
-        moduleContentTime: "07:06",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Find dine creators",
-        moduleContentTime: "10:36",
       },
     ],
   },
   {
     image: "/chaps/ch6.jpg",
-    mainHeading: "System tracking / progressivt udvikling i din forretning",
+    mainHeading: "Byg din hjemmeside professionelt",
     videoQuantity: "2",
     timeOfModule: "07:38",
     moduleContent: [
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Overblik over forretningen",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Valg af shopsystem",
         moduleContentTime: "02:23",
       },
       {
-        moduleContentImage: "/lock.webp",
+        moduleContentImage: "/boc/module.webp",
         moduleContentHeading:
-          "Bogfør i din forretning",
+          "Lær hvordan du navigerer rundt i shopify",
+        moduleContentTime: "03:09",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Lav en Hjemmeside med os * trin for trin gennemgang",
+        moduleContentTime: "02:23",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading:
+          "Konverteringsoptimeringer",
+        moduleContentTime: "03:09",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading:
+          "Valg af betalingsløsning",
         moduleContentTime: "03:09",
       },
     ],
   },
   {
     image: "/chaps/ch7.jpg",
-    mainHeading: "Se blomsten spire",
+    mainHeading: "Markedsføring til dit brand",
     videoQuantity: "1",
     timeOfModule: "12:19",
     moduleContent: [
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Et indblik i en af vores kunder",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Hvordan du laver konverterende",
+        moduleContentTime: "12:19",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Influencer marketing * kopier vores framework",
+        moduleContentTime: "12:19",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Paid ads",
+        moduleContentTime: "12:19",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Organisk markedsføring",
+        moduleContentTime: "12:19",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Hvordan du får fin markedsføring automatiseret og effektiviseret løbende",
         moduleContentTime: "12:19",
       },
     ],
   },
   {
     image: "/chaps/ch8.jpg",
-    mainHeading: "Strømlinet OCMA systemer",
+    mainHeading: "Dit første salg",
     videoQuantity: "5",
     timeOfModule: "1:12:33",
     moduleContent: [
       {
-        moduleContentImage: "/lock.webp",
+        moduleContentImage: "/boc/module.webp",
         moduleContentHeading:
-          "CRM system - administre dine leads",
+          "Håndtering af Levering & forsendelse",
         moduleContentTime: "39:47",
       },
       {
-        moduleContentImage: "/lock.webp",
+        moduleContentImage: "/boc/module.webp",
         moduleContentHeading:
-          "Byg dit digitale visitkort",
+          "Kundeservice automatisering",
         moduleContentTime: "20:00",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Gennemgang af hvordan du laver en hightech hjemmeside",
-        moduleContentTime: "12:52",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading:
-          "OCMA - manuskripter på alt",
-        moduleContentTime: "20:00",
-      },
-      {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "OCMA - redigerings smuthuller",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Hvordan du får konverteret kunden igen",
         moduleContentTime: "12:52",
       },
     ],
   },
   {
     image: "/chaps/ch9.jpg",
-    mainHeading: "Arbejd ikke “i” virksomheden arbejd “på” virksomheden",
+    mainHeading: "Skalering af brand",
     videoQuantity: "4",
     timeOfModule: "17:36",
     moduleContent: [
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "“hvornår skal du trykke på outsource triggeren",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Hvordan du automatiserer opgaver",
         moduleContentTime: "03:17",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Få din forretning til at arbejde for dig",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Hvor dit fokus skal ligge som brand ejer",
         moduleContentTime: "04:58",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Find freelancere",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Trin for trin vejledning ift. Lagerhotel",
         moduleContentTime: "06:37",
       },
       {
-        moduleContentImage: "/lock.webp",
-        moduleContentHeading: "Håndter hjulet, mens du skalerer",
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Fra white label til producent",
         moduleContentTime: "03:24",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Dømme kollektionsopbygning & hype til drops",
+        moduleContentTime: "03:24",
+      },
+    ],
+  },
+  {
+    image: "/chaps/ch9.jpg",
+    mainHeading: "Få en oversigt af dine tal",
+    videoQuantity: "4",
+    timeOfModule: "17:36",
+    moduleContent: [
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Gennemgang af vores nøjagtige systemer",
+        moduleContentTime: "03:17",
+      },
+      {
+        moduleContentImage: "/boc/module.webp",
+        moduleContentHeading: "Regnskab og bogføring",
+        moduleContentTime: "04:58",
       },
     ],
   },
@@ -465,7 +499,7 @@ const englishClassContentData = [
         moduleContentTime: "06:37",
       },
       {
-        moduleContentImage: "/lock.webp",
+        moduleContentImage: "/boc/module.webp",
         moduleContentHeading: "Handle the wheel while scaling your business",
         moduleContentTime: "03:24",
       },
@@ -482,10 +516,10 @@ export default function ClassContent() {
         <Reveal>
           <h1 className="text-heroHeading font-[700] mb-[14px]">
             {currentPath === "/en"
-              ? "Get a taste of what you get in "
+              ? "Se en smagsprøve ad hvad du får eksklusiv adgang til i "
               : "Se en smagsprøve af hvad du kan forvente i"}{" "}
             <span className="text-white">
-              {currentPath === "/en" ? " OCMA Masterclass?" : " OCMA Masterclass"}
+              {currentPath === "/en" ? " Brand Owners Club" : " Brand Owners Club"}
             </span>
           </h1>
         </Reveal>
@@ -538,7 +572,7 @@ const ClassContentCard = (props: any) => {
             <div className="flex items-center gap-[20px]">
               <div className="flex items-center gap-[6px]">
                 <Play />
-                <p>{props.Obj.videoQuantity} {currentPath === "/en" ? "videos":"videoer"}</p>
+                <p>{props.Obj.moduleContent.length} {currentPath === "/en" ? "videos":"videoer"}</p>
               </div>
 
             </div>
