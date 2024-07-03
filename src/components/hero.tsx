@@ -14,6 +14,19 @@ export default function Hero() {
   return (
     <section className="py-[220px] pb-[40px] bg-transparent">
       <div className="w-sectionMain max-w-main mx-auto grid grid-cols-2 gap-[100px] heroOne:grid-cols-1">
+        <div className="items-center justify-center hidden sm:flex">
+          <Reveal>
+            {currentPath === "/en" ? (
+              <div className="flex flex-col items-center">
+                <WistiaVideo />
+              </div>
+            ) : (
+              <div className="flex flex-col items-center">
+                <WistiaVideo />
+              </div>
+            )}
+          </Reveal>
+        </div>
         <div className="py-[20px] heroOne:py-0">
           <Reveal>
             <img className="w-24 mb-6" src="/stars-5.svg"></img>
@@ -83,20 +96,6 @@ export default function Hero() {
               </div>
             </Reveal>
           </div>
-        </div>
-
-        <div className="items-center justify-center hidden sm:flex">
-          <Reveal>
-            {currentPath === "/en" ? (
-              <div className="flex flex-col items-center">
-                <WistiaVideo />
-              </div>
-            ) : (
-              <div className="flex flex-col items-center">
-                <WistiaVideo />
-              </div>
-            )}
-          </Reveal>
         </div>
       </div>
     </section>
