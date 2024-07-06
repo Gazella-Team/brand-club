@@ -17,6 +17,7 @@ import { Element } from "react-scroll";
 import Meta from "@/components/Layout/Meta";
 import StudentTests from "@/components/studenttests";
 import BocContent from "@/components/boc/content";
+import Globus from "@/components/boc/globus";
 
 export default function Home() {
   return (
@@ -41,6 +42,7 @@ export default function Home() {
       <Element name="content">
         <ClassContent />
       </Element>
+      <Globus />
       <Why />
       <FAQ />
       <Footer />
