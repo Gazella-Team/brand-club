@@ -32,18 +32,16 @@ export default function Home() {
       </Element>
          */}
       <TrustBadges />
-      <About />
       <BocContent />
       <Element name="omos">
         <Articles />
       </Element>
       <Calls />
-      <Contents />
+      {/*<Contents /> */}
       <Element name="content">
         <ClassContent />
       </Element>
       <Globus />
-      <Why />
       <FAQ />
       <Footer />
     </main>
