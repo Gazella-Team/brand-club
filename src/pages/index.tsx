@@ -21,7 +21,7 @@ import Globus from "@/components/boc/globus";
 
 export default function Home() {
   return (
-    <main className="bg-black">
+    <main className="bg-[#051c0b]">
       <Meta />
       <Navbar />
       <Hero />

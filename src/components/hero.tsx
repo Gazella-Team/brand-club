@@ -36,7 +36,7 @@ export default function Hero() {
               {currentPath === "/en"
                 ? "Perfected masterclass that guides you step by step in building an"
                 : "Fællesskab for seriøse brandejere, som vil skalere deres"}{" "}
-              <span className="text-green-600">
+              <span className="text-[#29a226]">
                 {currentPath === "/en"
                   ? "OCMA"
                   : "tøjbrand"}
@@ -69,7 +69,7 @@ export default function Hero() {
             <Reveal>
               <div className="flex gap-[10px] heroTwo:flex-col">
                 <a
-                  className="text-glow bg-green-600 text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
+                  className="text-glow bg-[#29a226] text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
                   href={
                     currentPath === "/en"
                       ? "https://calendly.com/google-brandownersclub/30min"
@@ -86,7 +86,7 @@ export default function Hero() {
                   to="omos"
                   smooth={true}
                   duration={500}
-                  className="text-glow bg-green-600 text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
+                  className="text-glow bg-[#29a226] text-white p-[30px] py-[10px] rounded-full flex items-center gap-[10px]"
                 >
                   {currentPath === "/en" ? "Hear more" : "Hør mere"}
                   <span>

@@ -554,7 +554,7 @@ const ClassContentCard = (props: any) => {
   const [cardExpanded, setCardExpanded] = useState(false);
   return (
     <Reveal>
-      <div className="p-[20px] bg-green-600 text-blue-950 rounded-main">
+      <div className="p-[20px] bg-[#29a226] text-blue-950 rounded-main">
         <div className="grid grid-cols-contentCard gap-[30px] trustbadgesTwo:grid-cols-1">
           <img
             alt="courseelement"

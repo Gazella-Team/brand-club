@@ -23,7 +23,7 @@ export default function BocContent() {
           </p>
         </Reveal>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
-          <div style={{background: "linear-gradient(90deg, rgba(40,80,23,1) 0%, rgba(33,150,10,1) 100%)"}} className="text-white p-6 flex flex-col gap-6 rounded-2xl text-left">
+          <div style={{background: "linear-gradient(90deg, rgba(40,80,23,1) 0%, rgba(33,150,10,1) 100%)"}} className="text-white bg-[#29a226] p-6 flex flex-col gap-6 rounded-2xl text-left">
             <img className="rounded-2xl" src="/boc/contents/1.webp"></img>
             <div className="flex flex-col gap-1">
               <h1 className="text-xl font-semibold">Markedsføring hjælp fra eksperter</h1>
